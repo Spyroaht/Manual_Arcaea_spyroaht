@@ -1,0 +1,105 @@
+{
+  "MusicPlay": {
+    "starting": true,
+    "connects_to": [
+      "StoryMode",
+      "FirstStepInANewWorld",
+      "SweptUpInAHeartbeat",
+      "UnceasingSpirit",
+      "LightI",
+      "ConflictI",
+      "OuterReaches",
+      "Beyond"
+    ]
+  },
+  "StoryMode": {
+    "requires": "|Story Mode| and |base_light|"
+  },
+  "FirstStepInANewWorld": {
+    "requires": "(|Story Mode| and |Course Mode|) and (|First Step in a New World|) and (|base_light| and |inkar-usi Present|)"
+  },
+  "SweptUpInAHeartbeat": {
+    "requires": "|Course Mode| and (|Swept up in a Heartbeat|) and (|base_light| and |Vexaria Future|)"
+  },
+  "UnceasingSpirit": {
+    "requires": "((|World Mode| and |Course Mode|) and ((((|Lost World| and |Spire of Convergence|) and ((|base_light| and |Babaroque|) and (|shiawase| and |Harutopia ~Utopia of Spring~|))) and (|Progressive Light:3|)) and (|Unceasing Spirit|))) and (|nijuusei-light-b| and (|Suomi| and |Suomi Future|))"
+  },
+  "LightI": {
+    "connects_to": [
+      "LightII"
+    ],
+    "requires": "|World Mode| and (|Lost World| and |Progressive Light:1|) and (|base_light| and |Babaroque|)"
+  },
+  "ConflictI": {
+    "connects_to": [
+      "ConflictII"
+    ],
+    "requires": "|World Mode| and (|Lost World| and |Progressive Conflict:1|) and (|base_conflict| and |Lucifer|)"
+  },
+  "LightII": {
+    "connects_to": [
+      "LightIII"
+    ],
+    "requires": "|Progressive Light:2| and (|shiawase|) and (|Harutopia ~Utopia of Spring~|)"
+  },
+  "ConflictII": {
+    "connects_to": [
+      "ConflictIII"
+    ],
+    "requires": "|Progressive Conflict:2| and |Rabbit In The Black Room|"
+  },
+  "OuterReaches": {
+    "connects_to": [
+      "ExtraII"
+    ],
+    "requires": "|World Mode| and (|Outer Reaches|) and ((|mirai_light| and |base_light|) and |Syro|)"
+  },
+  "LightIII": {
+    "connects_to": [
+      "LightIV"
+    ],
+    "requires": "(|Spire of Convergence| and |Progressive Light:3|) and (|nijuusei-light-b| and |Suomi|)"
+  },
+  "ConflictIII": {
+    "connects_to": [
+      "ConflictIV"
+    ],
+    "requires": "(|Spire of Convergence| and |Progressive Conflict:3|) and (|yugamu| and |Bookmaker|)"
+  },
+  "ConflictIV": {
+    "connects_to": [
+      "ConflictV"
+    ],
+    "requires": "|Progressive Conflict:4| and (|lethaeus|) and (|Nhelv|)"
+  },
+  "LightIV": {
+    "requires": "(|Dormant Echoes| and |Progressive Light:4|) and (|mirai_conflict|) and (|VECTOЯ|)"
+  },
+  "ConflictV": {
+    "requires": "(|Dormant Echoes| and |Progressive Conflict:5|) and (|ReviXy|)"
+  },
+  "ExtraII": {
+    "connects_to": [
+      "ExtraIII"
+    ],
+    "requires": "(|Dormant Echoes| and |Progressive Extra:1|) and (|shiawase|) and (|Diode|)"
+  },
+  "ExtraIII": {
+    "connects_to": [
+      "ExtraIV"
+    ],
+    "requires": "(|Forgotten Construct| and |Progressive Extra:2|) and (|alice_light|) and (|Ävril -Flicka i krans-|)"
+  },
+  "ExtraIV": {
+    "connects_to": [
+      "HorizonOfAnamnesis"
+    ],
+    "requires": "|Progressive Extra:3| and (|nijuusei2_light|) and (|DDD|)"
+  },
+  "HorizonOfAnamnesis": {
+    "requires": "|Horizon of Anamnesis| and |Altair|"
+  },
+  "Beyond": {
+    "requires": "|World Mode| and |Beyond|"
+  }
+}

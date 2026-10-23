@@ -1,0 +1,933 @@
+[
+  {
+    "name": "Dematerialized Present",
+    "progression": true
+  },
+  {
+    "name": "Dematerialized Future",
+    "progression": true
+  },
+  {
+    "name": "Dematerialized Eternal",
+    "progression": true
+  },
+  {
+    "name": "Fairytale Present",
+    "progression": true
+  },
+  {
+    "name": "Fairytale Future",
+    "progression": true
+  },
+  {
+    "name": "Fairytale Beyond",
+    "progression": true
+  },
+  {
+    "name": "Harutopia ~Utopia of Spring~",
+    "progression": true
+  },
+  {
+    "name": "Harutopia Present",
+    "progression": true
+  },
+  {
+    "name": "Harutopia Future",
+    "progression": true
+  },
+  {
+    "name": "Infinity Heaven Present",
+    "progression": true
+  },
+  {
+    "name": "Infinity Heaven Future",
+    "progression": true
+  },
+  {
+    "name": "Infinity Heaven Beyond",
+    "progression": true
+  },
+  {
+    "name": "Kanagawa Cyber Culvert",
+    "progression": true
+  },
+  {
+    "name": "Kanagawa Cyber Culvert Present",
+    "progression": true
+  },
+  {
+    "name": "Kanagawa Cyber Culvert Future",
+    "progression": true
+  },
+  {
+    "name": "Kanagawa Cyber Culvert Beyond",
+    "progression": true
+  },
+  {
+    "name": "Sayonara Hatsukoi Present",
+    "progression": true
+  },
+  {
+    "name": "Sayonara Hatsukoi Future",
+    "progression": true
+  },
+  {
+    "name": "Sayonara Hatsukoi Eternal",
+    "progression": true
+  },
+  {
+    "name": "Altair",
+    "progression": true
+  },
+  {
+    "name": "Altair Present",
+    "progression": true
+  },
+  {
+    "name": "Altair Future",
+    "progression": true
+  },
+  {
+    "name": "Anökumene",
+    "progression": true
+  },
+  {
+    "name": "Anökumene Present",
+    "progression": true
+  },
+  {
+    "name": "Anökumene Future",
+    "progression": true
+  },
+  {
+    "name": "Anökumene Beyond",
+    "progression": true
+  },
+  {
+    "name": "Brand new world Present",
+    "progression": true
+  },
+  {
+    "name": "Brand new world Future",
+    "progression": true
+  },
+  {
+    "name": "Clotho and the stargazer Present",
+    "progression": true
+  },
+  {
+    "name": "Clotho and the stargazer Future",
+    "progression": true
+  },
+  {
+    "name": "Clotho and the stargazer Eternal",
+    "progression": true
+  },
+  {
+    "name": "Dandelion Present",
+    "progression": true
+  },
+  {
+    "name": "Dandelion Future",
+    "progression": true
+  },
+  {
+    "name": "DDD",
+    "progression": true
+  },
+  {
+    "name": "DDD Present",
+    "progression": true
+  },
+  {
+    "name": "DDD Future",
+    "progression": true
+  },
+  {
+    "name": "Diode",
+    "progression": true
+  },
+  {
+    "name": "Diode Present",
+    "progression": true
+  },
+  {
+    "name": "Diode Future",
+    "progression": true
+  },
+  {
+    "name": "Gimme Caramel Popcorn! Present",
+    "progression": true
+  },
+  {
+    "name": "Gimme Caramel Popcorn! Future",
+    "progression": true
+  },
+  {
+    "name": "Gimme Caramel Popcorn! Eternal",
+    "progression": true
+  },
+  {
+    "name": "Grimheart Present",
+    "progression": true
+  },
+  {
+    "name": "Grimheart Future",
+    "progression": true
+  },
+  {
+    "name": "Hidden Rainbows of Epicurus Present",
+    "progression": true
+  },
+  {
+    "name": "Hidden Rainbows of Epicurus Future",
+    "progression": true
+  },
+  {
+    "name": "Hidden Rainbows of Epicurus Eternal",
+    "progression": true
+  },
+  {
+    "name": "Illegal Paradise",
+    "progression": true
+  },
+  {
+    "name": "Illegal Paradise Present",
+    "progression": true
+  },
+  {
+    "name": "Illegal Paradise Future",
+    "progression": true
+  },
+  {
+    "name": "inkar-usi Present",
+    "progression": true
+  },
+  {
+    "name": "inkar-usi Future",
+    "progression": true
+  },
+  {
+    "name": "inkar-usi Beyond",
+    "progression": true
+  },
+  {
+    "name": "Jingle Present",
+    "progression": true
+  },
+  {
+    "name": "Jingle Future",
+    "progression": true
+  },
+  {
+    "name": "Jingle Eternal",
+    "progression": true
+  },
+  {
+    "name": "One Last Drive Present",
+    "progression": true
+  },
+  {
+    "name": "One Last Drive Future",
+    "progression": true
+  },
+  {
+    "name": "Purgatorium Present",
+    "progression": true
+  },
+  {
+    "name": "Purgatorium Future",
+    "progression": true
+  },
+  {
+    "name": "Purgatorium Beyond",
+    "progression": true
+  },
+  {
+    "name": "Rabbit In The Black Room",
+    "progression": true
+  },
+  {
+    "name": "Rabbit In The Black Room Present",
+    "progression": true
+  },
+  {
+    "name": "Rabbit In The Black Room Future",
+    "progression": true
+  },
+  {
+    "name": "Reinvent Present",
+    "progression": true
+  },
+  {
+    "name": "Reinvent Future",
+    "progression": true
+  },
+  {
+    "name": "Rise Present",
+    "progression": true
+  },
+  {
+    "name": "Rise Future",
+    "progression": true
+  },
+  {
+    "name": "Snow White Present",
+    "progression": true
+  },
+  {
+    "name": "Snow White Future",
+    "progression": true
+  },
+  {
+    "name": "Snow White Beyond",
+    "progression": true
+  },
+  {
+    "name": "Suomi",
+    "progression": true
+  },
+  {
+    "name": "Suomi Present",
+    "progression": true
+  },
+  {
+    "name": "Suomi Future",
+    "progression": true
+  },
+  {
+    "name": "Suomi Eternal",
+    "progression": true
+  },
+  {
+    "name": "Vexaria Present",
+    "progression": true
+  },
+  {
+    "name": "Vexaria Future",
+    "progression": true
+  },
+  {
+    "name": "Vexaria Beyond",
+    "progression": true
+  },
+  {
+    "name": "Babaroque",
+    "progression": true
+  },
+  {
+    "name": "Babaroque Present",
+    "progression": true
+  },
+  {
+    "name": "Babaroque Future",
+    "progression": true
+  },
+  {
+    "name": "Chronostasis Present",
+    "progression": true
+  },
+  {
+    "name": "Chronostasis Future",
+    "progression": true
+  },
+  {
+    "name": "Dancin' on a Cat's Paw",
+    "progression": true
+  },
+  {
+    "name": "Dancin' on a Cat's Paw Present",
+    "progression": true
+  },
+  {
+    "name": "Dancin' on a Cat's Paw Future",
+    "progression": true
+  },
+  {
+    "name": "Dement Present",
+    "progression": true
+  },
+  {
+    "name": "Dement Future",
+    "progression": true
+  },
+  {
+    "name": "Dement Beyond",
+    "progression": true
+  },
+  {
+    "name": "Dialnote Present",
+    "progression": true
+  },
+  {
+    "name": "Dialnote Future",
+    "progression": true
+  },
+  {
+    "name": "Ignotus",
+    "progression": true
+  },
+  {
+    "name": "Ignotus Present",
+    "progression": true
+  },
+  {
+    "name": "Ignotus Future",
+    "progression": true
+  },
+  {
+    "name": "Ignotus Afterburn",
+    "progression": true
+  },
+  {
+    "name": "Lucifer",
+    "progression": true
+  },
+  {
+    "name": "Lucifer Present",
+    "progression": true
+  },
+  {
+    "name": "Lucifer Future",
+    "progression": true
+  },
+  {
+    "name": "LunarOrbit -believe in the Espebranch road-",
+    "progression": true
+  },
+  {
+    "name": "LunarOrbit Present",
+    "progression": true
+  },
+  {
+    "name": "LunarOrbit Future",
+    "progression": true
+  },
+  {
+    "name": "Nhelv",
+    "progression": true
+  },
+  {
+    "name": "Nhelv Present",
+    "progression": true
+  },
+  {
+    "name": "Nhelv Future",
+    "progression": true
+  },
+  {
+    "name": "NULCTRL",
+    "progression": true
+  },
+  {
+    "name": "NULCTRL Present",
+    "progression": true
+  },
+  {
+    "name": "NULCTRL Future",
+    "progression": true
+  },
+  {
+    "name": "Oblivia Present",
+    "progression": true
+  },
+  {
+    "name": "Oblivia Future",
+    "progression": true
+  },
+  {
+    "name": "Oblivia Beyond",
+    "progression": true
+  },
+  {
+    "name": "Remind the Souls Present",
+    "progression": true
+  },
+  {
+    "name": "Remind the Souls Future",
+    "progression": true
+  },
+  {
+    "name": "ReviXy",
+    "progression": true
+  },
+  {
+    "name": "ReviXy Present",
+    "progression": true
+  },
+  {
+    "name": "ReviXy Future",
+    "progression": true
+  },
+  {
+    "name": "Rugie",
+    "progression": true
+  },
+  {
+    "name": "Rugie Present",
+    "progression": true
+  },
+  {
+    "name": "Rugie Future",
+    "progression": true
+  },
+  {
+    "name": "Sakura Fubuki Present",
+    "progression": true
+  },
+  {
+    "name": "Sakura Fubuki Future",
+    "progression": true
+  },
+  {
+    "name": "san skia",
+    "progression": true
+  },
+  {
+    "name": "san skia Present",
+    "progression": true
+  },
+  {
+    "name": "san skia Future",
+    "progression": true
+  },
+  {
+    "name": "SATISFACTION Present",
+    "progression": true
+  },
+  {
+    "name": "SATISFACTION Future",
+    "progression": true
+  },
+  {
+    "name": "SATISFACTION Eternal",
+    "progression": true
+  },
+  {
+    "name": "Senkyou Present",
+    "progression": true
+  },
+  {
+    "name": "Senkyou Future",
+    "progression": true
+  },
+  {
+    "name": "Shades of Light in a Transcendent Realm Present",
+    "progression": true
+  },
+  {
+    "name": "Shades of Light in a Transcendent Realm Future",
+    "progression": true
+  },
+  {
+    "name": "Shades of Light in a Transcendent Realm Beyond",
+    "progression": true
+  },
+  {
+    "name": "SUPERNOVA",
+    "progression": true
+  },
+  {
+    "name": "SUPERNOVA Present",
+    "progression": true
+  },
+  {
+    "name": "SUPERNOVA Future",
+    "progression": true
+  },
+  {
+    "name": "Syro",
+    "progression": true
+  },
+  {
+    "name": "Syro Present",
+    "progression": true
+  },
+  {
+    "name": "Syro Future",
+    "progression": true
+  },
+  {
+    "name": "The Formula Present",
+    "progression": true
+  },
+  {
+    "name": "The Formula Future",
+    "progression": true
+  },
+  {
+    "name": "VECTOЯ",
+    "progression": true
+  },
+  {
+    "name": "VECTOЯ Present",
+    "progression": true
+  },
+  {
+    "name": "VECTOЯ Future",
+    "progression": true
+  },
+  {
+    "name": "world.execute(me); Present",
+    "progression": true
+  },
+  {
+    "name": "world.execute(me); Future",
+    "progression": true
+  },
+  {
+    "name": "Ävril -Flicka i krans-",
+    "progression": true
+  },
+  {
+    "name": "Ävril Present",
+    "progression": true
+  },
+  {
+    "name": "Ävril Future",
+    "progression": true
+  },
+  {
+    "name": "Blaster",
+    "progression": true
+  },
+  {
+    "name": "Blaster Present",
+    "progression": true
+  },
+  {
+    "name": "Blaster Future",
+    "progression": true
+  },
+  {
+    "name": "Bookmaker",
+    "progression": true
+  },
+  {
+    "name": "Bookmaker Present",
+    "progression": true
+  },
+  {
+    "name": "Bookmaker Future",
+    "progression": true
+  },
+  {
+    "name": "Bookmaker Beyond",
+    "progression": true
+  },
+  {
+    "name": "Cybernecia Catharsis",
+    "progression": true
+  },
+  {
+    "name": "Cybernecia Catharsis Present",
+    "progression": true
+  },
+  {
+    "name": "Cybernecia Catharsis Future",
+    "progression": true
+  },
+  {
+    "name": "Cybernecia Catharsis Beyond",
+    "progression": true
+  },
+  {
+    "name": "Dreamin' Attraction!!",
+    "progression": true
+  },
+  {
+    "name": "Dreamin' Attraction!! Present",
+    "progression": true
+  },
+  {
+    "name": "Dreamin' Attraction!! Future",
+    "progression": true
+  },
+  {
+    "name": "FREEF4LL",
+    "progression": true
+  },
+  {
+    "name": "FREEF4LL Present",
+    "progression": true
+  },
+  {
+    "name": "FREEF4LL Future",
+    "progression": true
+  },
+  {
+    "name": "FREEF4LL Beyond",
+    "progression": true
+  },
+  {
+    "name": "GOODTEK",
+    "progression": true
+  },
+  {
+    "name": "GOODTEK Present",
+    "progression": true
+  },
+  {
+    "name": "GOODTEK Future",
+    "progression": true
+  },
+  {
+    "name": "GOODTEK Beyond",
+    "progression": true
+  },
+  {
+    "name": "Lost Civilization Present",
+    "progression": true
+  },
+  {
+    "name": "Lost Civilization Future",
+    "progression": true
+  },
+  {
+    "name": "Lost Civilization Beyond",
+    "progression": true
+  },
+  {
+    "name": "Monochrome Princess",
+    "progression": true
+  },
+  {
+    "name": "Monochrome Princess Present",
+    "progression": true
+  },
+  {
+    "name": "Monochrome Princess Future",
+    "progression": true
+  },
+  {
+    "name": "qualia -ideaesthesia-",
+    "progression": true
+  },
+  {
+    "name": "qualia Present",
+    "progression": true
+  },
+  {
+    "name": "qualia Future",
+    "progression": true
+  },
+  {
+    "name": "qualia Beyond",
+    "progression": true
+  },
+  {
+    "name": "Red and Blue",
+    "progression": true
+  },
+  {
+    "name": "Red and Blue Present",
+    "progression": true
+  },
+  {
+    "name": "Red and Blue Future",
+    "progression": true
+  },
+  {
+    "name": "Red and Blue and Green",
+    "progression": true
+  },
+  {
+    "name": "Redraw the Colorless World",
+    "progression": true
+  },
+  {
+    "name": "Redraw the Colorless World Present",
+    "progression": true
+  },
+  {
+    "name": "Redraw the Colorless World Future",
+    "progression": true
+  },
+  {
+    "name": "Trap Crow",
+    "progression": true
+  },
+  {
+    "name": "Trap Crow Present",
+    "progression": true
+  },
+  {
+    "name": "Trap Crow Future",
+    "progression": true
+  },
+  {
+    "name": "Tairitsu",
+    "progression": true
+  },
+  {
+    "name": "Story Mode",
+    "progression": true
+  },
+  {
+    "name": "Course Mode",
+    "progression": true
+  },
+  {
+    "name": "World Mode",
+    "progression": true
+  },
+  {
+    "name": "First Step in a New World",
+    "progression": true
+  },
+  {
+    "name": "Swept up in a Heartbeat",
+    "progression": true
+  },
+  {
+    "name": "Unceasing Spirit",
+    "progression": true
+  },
+  {
+    "name": "Lost World",
+    "progression": true
+  },
+  {
+    "name": "Outer Reaches",
+    "progression": true
+  },
+  {
+    "name": "Spire of Convergence",
+    "progression": true
+  },
+  {
+    "name": "Dormant Echoes",
+    "progression": true
+  },
+  {
+    "name": "Forgotten Construct",
+    "progression": true
+  },
+  {
+    "name": "Horizon of Anamnesis",
+    "progression": true
+  },
+  {
+    "name": "Beyond",
+    "progression": true
+  },
+  {
+    "name": "Progressive Light",
+    "progression": true,
+    "count": 4
+  },
+  {
+    "name": "Progressive Conflict",
+    "progression": true,
+    "count": 5
+  },
+  {
+    "name": "Progressive Extra",
+    "progression": true,
+    "count": 3
+  },
+  {
+    "name": "Lost World Background"
+  },
+  {
+    "name": "Spire of Convergence Background"
+  },
+  {
+    "name": "Dormant Echoes Background"
+  },
+  {
+    "name": "base_light",
+    "progression": true
+  },
+  {
+    "name": "shiawase",
+    "progression": true
+  },
+  {
+    "name": "nijuusei2_light",
+    "progression": true
+  },
+  {
+    "name": "base_conflict",
+    "progression": true
+  },
+  {
+    "name": "single2_conflict",
+    "progression": true
+  },
+  {
+    "name": "hime_light",
+    "progression": true
+  },
+  {
+    "name": "rei",
+    "progression": true
+  },
+  {
+    "name": "touhou_light",
+    "progression": true
+  },
+  {
+    "name": "single2_light",
+    "progression": true
+  },
+  {
+    "name": "nijuusei-light-b",
+    "progression": true
+  },
+  {
+    "name": "alice_light",
+    "progression": true
+  },
+  {
+    "name": "byd_conflict",
+    "progression": true
+  },
+  {
+    "name": "mirai_conflict",
+    "progression": true
+  },
+  {
+    "name": "lethaeus",
+    "progression": true
+  },
+  {
+    "name": "prelude_conflict",
+    "progression": true
+  },
+  {
+    "name": "mirai_light",
+    "progression": true
+  },
+  {
+    "name": "vs_conflict",
+    "progression": true
+  },
+  {
+    "name": "omatsuri_light",
+    "progression": true
+  },
+  {
+    "name": "nijuusei-conflict-b",
+    "progression": true
+  },
+  {
+    "name": "prelude_light",
+    "progression": true
+  },
+  {
+    "name": "yugamu",
+    "progression": true
+  },
+  {
+    "name": "omatsuri_conflict",
+    "progression": true
+  },
+  {
+    "name": "Goal",
+    "classification_count": {
+      "progression_skip_balancing": 1,
+      "filler": 1
+    }
+  }
+]

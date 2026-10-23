@@ -1,0 +1,3335 @@
+[
+  {
+    "name": "Dematerialized Past Easy Clear",
+    "region": "MusicPlay"
+  },
+  {
+    "name": "Dematerialized Past Normal Clear",
+    "region": "MusicPlay"
+  },
+  {
+    "name": "Dematerialized Past Full Recall",
+    "region": "MusicPlay"
+  },
+  {
+    "name": "Dematerialized Past Pure Memory",
+    "region": "MusicPlay"
+  },
+  {
+    "name": "Dematerialized Present Easy Clear",
+    "region": "MusicPlay",
+    "requires": "|Dematerialized Present|"
+  },
+  {
+    "name": "Dematerialized Present Normal Clear",
+    "region": "MusicPlay",
+    "requires": "|Dematerialized Present|"
+  },
+  {
+    "name": "Dematerialized Present Full Recall",
+    "region": "MusicPlay",
+    "requires": "|Dematerialized Present|"
+  },
+  {
+    "name": "Dematerialized Present Pure Memory",
+    "region": "MusicPlay",
+    "requires": "|Dematerialized Present|"
+  },
+  {
+    "name": "Dematerialized Future Easy Clear",
+    "region": "MusicPlay",
+    "requires": "|Dematerialized Future|"
+  },
+  {
+    "name": "Dematerialized Future Normal Clear",
+    "region": "MusicPlay",
+    "requires": "|Dematerialized Future|"
+  },
+  {
+    "name": "Dematerialized Future Full Recall",
+    "region": "MusicPlay",
+    "requires": "|Dematerialized Future|"
+  },
+  {
+    "name": "Dematerialized Eternal Easy Clear",
+    "region": "MusicPlay",
+    "requires": "|Dematerialized Eternal|"
+  },
+  {
+    "name": "Dematerialized Eternal Normal Clear",
+    "region": "MusicPlay",
+    "requires": "|Dematerialized Eternal|"
+  },
+  {
+    "name": "Dematerialized Eternal Full Recall",
+    "region": "MusicPlay",
+    "requires": "|Dematerialized Eternal|"
+  },
+  {
+    "name": "Fairytale Past Easy Clear",
+    "region": "MusicPlay",
+    "requires": "|base_light|"
+  },
+  {
+    "name": "Fairytale Past Normal Clear",
+    "region": "MusicPlay",
+    "requires": "|base_light|"
+  },
+  {
+    "name": "Fairytale Past Full Recall",
+    "region": "MusicPlay",
+    "requires": "|base_light|"
+  },
+  {
+    "name": "Fairytale Past Pure Memory",
+    "region": "MusicPlay",
+    "requires": "|base_light|"
+  },
+  {
+    "name": "Fairytale Present Easy Clear",
+    "region": "MusicPlay",
+    "requires": "|base_light| and |Fairytale Present|"
+  },
+  {
+    "name": "Fairytale Present Normal Clear",
+    "region": "MusicPlay",
+    "requires": "|base_light| and |Fairytale Present|"
+  },
+  {
+    "name": "Fairytale Present Full Recall",
+    "region": "MusicPlay",
+    "requires": "|base_light| and |Fairytale Present|"
+  },
+  {
+    "name": "Fairytale Present Pure Memory",
+    "region": "MusicPlay",
+    "requires": "|base_light| and |Fairytale Present|"
+  },
+  {
+    "name": "Fairytale Future Easy Clear",
+    "region": "MusicPlay",
+    "requires": "|base_light| and |Fairytale Future|"
+  },
+  {
+    "name": "Fairytale Future Normal Clear",
+    "region": "MusicPlay",
+    "requires": "|base_light| and |Fairytale Future|"
+  },
+  {
+    "name": "Fairytale Future Full Recall",
+    "region": "MusicPlay",
+    "requires": "|base_light| and |Fairytale Future|"
+  },
+  {
+    "name": "Fairytale Beyond Easy Clear",
+    "region": "Beyond",
+    "requires": "|base_light| and |Fairytale Beyond|"
+  },
+  {
+    "name": "Fairytale Beyond Normal Clear",
+    "region": "Beyond",
+    "requires": "|base_light| and (|Fairytale Beyond| and |Tairitsu|)"
+  },
+  {
+    "name": "Harutopia Past Easy Clear",
+    "region": "LightII"
+  },
+  {
+    "name": "Harutopia Past Normal Clear",
+    "region": "LightII"
+  },
+  {
+    "name": "Harutopia Past Full Recall",
+    "region": "LightII"
+  },
+  {
+    "name": "Harutopia Past Pure Memory",
+    "region": "LightII"
+  },
+  {
+    "name": "Harutopia Present Easy Clear",
+    "region": "LightII",
+    "requires": "|Harutopia Present|"
+  },
+  {
+    "name": "Harutopia Present Normal Clear",
+    "region": "LightII",
+    "requires": "|Harutopia Present|"
+  },
+  {
+    "name": "Harutopia Present Full Recall",
+    "region": "LightII",
+    "requires": "|Harutopia Present|"
+  },
+  {
+    "name": "Harutopia Present Pure Memory",
+    "region": "LightII",
+    "requires": "|Harutopia Present|"
+  },
+  {
+    "name": "Harutopia Future Easy Clear",
+    "region": "LightII",
+    "requires": "|Harutopia Future|"
+  },
+  {
+    "name": "Harutopia Future Normal Clear",
+    "region": "LightII",
+    "requires": "|Harutopia Future|"
+  },
+  {
+    "name": "Harutopia Future Full Recall",
+    "region": "LightII",
+    "requires": "|Harutopia Future|"
+  },
+  {
+    "name": "Infinity Heaven Past Easy Clear",
+    "region": "MusicPlay",
+    "requires": "|base_light|"
+  },
+  {
+    "name": "Infinity Heaven Past Normal Clear",
+    "region": "MusicPlay",
+    "requires": "|base_light|"
+  },
+  {
+    "name": "Infinity Heaven Past Full Recall",
+    "region": "MusicPlay",
+    "requires": "|base_light|"
+  },
+  {
+    "name": "Infinity Heaven Past Pure Memory",
+    "region": "MusicPlay",
+    "requires": "|base_light|"
+  },
+  {
+    "name": "Infinity Heaven Present Easy Clear",
+    "region": "MusicPlay",
+    "requires": "|base_light| and |Infinity Heaven Present|"
+  },
+  {
+    "name": "Infinity Heaven Present Normal Clear",
+    "region": "MusicPlay",
+    "requires": "|base_light| and |Infinity Heaven Present|"
+  },
+  {
+    "name": "Infinity Heaven Present Full Recall",
+    "region": "MusicPlay",
+    "requires": "|base_light| and |Infinity Heaven Present|"
+  },
+  {
+    "name": "Infinity Heaven Future Easy Clear",
+    "region": "MusicPlay",
+    "requires": "|base_light| and |Infinity Heaven Future|"
+  },
+  {
+    "name": "Infinity Heaven Future Normal Clear",
+    "region": "MusicPlay",
+    "requires": "|base_light| and |Infinity Heaven Future|"
+  },
+  {
+    "name": "Infinity Heaven Future Full Recall",
+    "region": "MusicPlay",
+    "requires": "|base_light| and |Infinity Heaven Future|"
+  },
+  {
+    "name": "Infinity Heaven Beyond Easy Clear",
+    "region": "Beyond",
+    "requires": "|base_light| and (|Infinity Heaven Beyond| and |Infinity Heaven Future|)"
+  },
+  {
+    "name": "Infinity Heaven Beyond Normal Clear",
+    "region": "Beyond",
+    "requires": "|base_light| and ((|Infinity Heaven Beyond| and |Infinity Heaven Future|) and (|Tairitsu|))"
+  },
+  {
+    "name": "Kanagawa Cyber Culvert Past Easy Clear",
+    "region": "LightI",
+    "requires": "|Kanagawa Cyber Culvert|"
+  },
+  {
+    "name": "Kanagawa Cyber Culvert Past Normal Clear",
+    "region": "LightI",
+    "requires": "|Kanagawa Cyber Culvert|"
+  },
+  {
+    "name": "Kanagawa Cyber Culvert Past Full Recall",
+    "region": "LightI",
+    "requires": "|Kanagawa Cyber Culvert|"
+  },
+  {
+    "name": "Kanagawa Cyber Culvert Past Pure Memory",
+    "region": "LightI",
+    "requires": "|Kanagawa Cyber Culvert|"
+  },
+  {
+    "name": "Kanagawa Cyber Culvert Present Easy Clear",
+    "region": "LightI",
+    "requires": "|Kanagawa Cyber Culvert| and |Kanagawa Cyber Culvert Present|"
+  },
+  {
+    "name": "Kanagawa Cyber Culvert Present Normal Clear",
+    "region": "LightI",
+    "requires": "|Kanagawa Cyber Culvert| and |Kanagawa Cyber Culvert Present|"
+  },
+  {
+    "name": "Kanagawa Cyber Culvert Present Full Recall",
+    "region": "LightI",
+    "requires": "|Kanagawa Cyber Culvert| and |Kanagawa Cyber Culvert Present|"
+  },
+  {
+    "name": "Kanagawa Cyber Culvert Future Easy Clear",
+    "region": "LightI",
+    "requires": "|Kanagawa Cyber Culvert| and |Kanagawa Cyber Culvert Future|"
+  },
+  {
+    "name": "Kanagawa Cyber Culvert Future Normal Clear",
+    "region": "LightI",
+    "requires": "|Tairitsu| and (|Kanagawa Cyber Culvert| and |Kanagawa Cyber Culvert Future|)"
+  },
+  {
+    "name": "Kanagawa Cyber Culvert Beyond Easy Clear",
+    "region": "Beyond",
+    "requires": "(|base_light| and (|Kanagawa Cyber Culvert|) and (|Kanagawa Cyber Culvert Future| and |Kanagawa Cyber Culvert Beyond|)) and ((|Lost World| and |Progressive Light:1|) and (|Babaroque|))"
+  },
+  {
+    "name": "Kanagawa Cyber Culvert Beyond Normal Clear",
+    "region": "Beyond",
+    "requires": "(|base_light| and (|Kanagawa Cyber Culvert|) and (|Kanagawa Cyber Culvert Future| and |Kanagawa Cyber Culvert Beyond|)) and ((|Lost World| and |Progressive Light:1|) and (|Babaroque| and |Tairitsu|))"
+  },
+  {
+    "name": "Sayonara Hatsukoi Past Easy Clear",
+    "region": "MusicPlay",
+    "requires": "|base_light|"
+  },
+  {
+    "name": "Sayonara Hatsukoi Past Normal Clear",
+    "region": "MusicPlay",
+    "requires": "|base_light|"
+  },
+  {
+    "name": "Sayonara Hatsukoi Past Full Recall",
+    "region": "MusicPlay",
+    "requires": "|base_light|"
+  },
+  {
+    "name": "Sayonara Hatsukoi Past Pure Memory",
+    "region": "MusicPlay",
+    "requires": "|base_light|"
+  },
+  {
+    "name": "Sayonara Hatsukoi Present Easy Clear",
+    "region": "MusicPlay",
+    "requires": "|base_light| and |Sayonara Hatsukoi Present|"
+  },
+  {
+    "name": "Sayonara Hatsukoi Present Normal Clear",
+    "region": "MusicPlay",
+    "requires": "|base_light| and |Sayonara Hatsukoi Present|"
+  },
+  {
+    "name": "Sayonara Hatsukoi Present Full Recall",
+    "region": "MusicPlay",
+    "requires": "|base_light| and |Sayonara Hatsukoi Present|"
+  },
+  {
+    "name": "Sayonara Hatsukoi Present Pure Memory",
+    "region": "MusicPlay",
+    "requires": "|base_light| and |Sayonara Hatsukoi Present|"
+  },
+  {
+    "name": "Sayonara Hatsukoi Future Easy Clear",
+    "region": "MusicPlay",
+    "requires": "|base_light| and |Sayonara Hatsukoi Future|"
+  },
+  {
+    "name": "Sayonara Hatsukoi Future Normal Clear",
+    "region": "MusicPlay",
+    "requires": "|base_light| and |Sayonara Hatsukoi Future|"
+  },
+  {
+    "name": "Sayonara Hatsukoi Future Full Recall",
+    "region": "MusicPlay",
+    "requires": "|base_light| and |Sayonara Hatsukoi Future|"
+  },
+  {
+    "name": "Sayonara Hatsukoi Eternal Easy Clear",
+    "region": "MusicPlay",
+    "requires": "|base_light| and |Sayonara Hatsukoi Eternal|"
+  },
+  {
+    "name": "Sayonara Hatsukoi Eternal Normal Clear",
+    "region": "MusicPlay",
+    "requires": "|base_light| and |Sayonara Hatsukoi Eternal|"
+  },
+  {
+    "name": "Sayonara Hatsukoi Eternal Full Recall",
+    "region": "MusicPlay",
+    "requires": "|base_light| and |Sayonara Hatsukoi Eternal|"
+  },
+  {
+    "name": "Altair Past Easy Clear",
+    "region": "HorizonOfAnamnesis"
+  },
+  {
+    "name": "Altair Past Normal Clear",
+    "region": "HorizonOfAnamnesis"
+  },
+  {
+    "name": "Altair Past Full Recall",
+    "region": "HorizonOfAnamnesis"
+  },
+  {
+    "name": "Altair Past Pure Memory",
+    "region": "HorizonOfAnamnesis"
+  },
+  {
+    "name": "Altair Present Easy Clear",
+    "region": "HorizonOfAnamnesis",
+    "requires": "|Altair Present|"
+  },
+  {
+    "name": "Altair Present Normal Clear",
+    "region": "HorizonOfAnamnesis",
+    "requires": "|Altair Present|"
+  },
+  {
+    "name": "Altair Present Full Recall",
+    "region": "HorizonOfAnamnesis",
+    "requires": "|Altair Present|"
+  },
+  {
+    "name": "Altair Future Easy Clear",
+    "region": "HorizonOfAnamnesis",
+    "requires": "|Altair Future|"
+  },
+  {
+    "name": "Altair Future Normal Clear",
+    "region": "HorizonOfAnamnesis",
+    "requires": "|Altair Future|"
+  },
+  {
+    "name": "Altair Future Full Recall",
+    "region": "HorizonOfAnamnesis",
+    "requires": "|Altair Future|"
+  },
+  {
+    "name": "Anökumene Past Easy Clear",
+    "region": "ConflictI",
+    "requires": "|Anökumene|"
+  },
+  {
+    "name": "Anökumene Past Normal Clear",
+    "region": "ConflictI",
+    "requires": "|Anökumene|"
+  },
+  {
+    "name": "Anökumene Past Full Recall",
+    "region": "ConflictI",
+    "requires": "|Anökumene|"
+  },
+  {
+    "name": "Anökumene Past Pure Memory",
+    "region": "ConflictI",
+    "requires": "|Anökumene|"
+  },
+  {
+    "name": "Anökumene Present Easy Clear",
+    "region": "ConflictI",
+    "requires": "|Anökumene| and |Anökumene Present|"
+  },
+  {
+    "name": "Anökumene Present Normal Clear",
+    "region": "ConflictI",
+    "requires": "|Anökumene| and |Anökumene Present|"
+  },
+  {
+    "name": "Anökumene Present Full Recall",
+    "region": "ConflictI",
+    "requires": "|Anökumene| and |Anökumene Present|"
+  },
+  {
+    "name": "Anökumene Future Easy Clear",
+    "region": "ConflictI",
+    "requires": "|Anökumene| and |Anökumene Future|"
+  },
+  {
+    "name": "Anökumene Future Normal Clear",
+    "region": "ConflictI",
+    "requires": "(|Anökumene| and |Anökumene Future|) and (|Tairitsu|)"
+  },
+  {
+    "name": "Anökumene Beyond Easy Clear",
+    "region": "Beyond",
+    "requires": "(((|Lost World| and |Outer Reaches|) and (|Progressive Conflict:1|)) and (|Lucifer| and |base_conflict|)) and (|Anökumene| and |Anökumene Beyond|)"
+  },
+  {
+    "name": "Anökumene Beyond Normal Clear",
+    "region": "Beyond",
+    "requires": "((((|Lost World| and |Outer Reaches|) and (|Progressive Conflict:1|)) and (|Lucifer| and |base_conflict|)) and (|Anökumene| and |Anökumene Beyond|)) and (|Tairitsu|)"
+  },
+  {
+    "name": "Brand new world Past Easy Clear",
+    "region": "MusicPlay",
+    "requires": "|shiawase|"
+  },
+  {
+    "name": "Brand new world Past Normal Clear",
+    "region": "MusicPlay",
+    "requires": "|shiawase|"
+  },
+  {
+    "name": "Brand new world Past Full Recall",
+    "region": "MusicPlay",
+    "requires": "|shiawase|"
+  },
+  {
+    "name": "Brand new world Past Pure Memory",
+    "region": "MusicPlay",
+    "requires": "|shiawase|"
+  },
+  {
+    "name": "Brand new world Present Easy Clear",
+    "region": "MusicPlay",
+    "requires": "|shiawase| and |Brand new world Present|"
+  },
+  {
+    "name": "Brand new world Present Normal Clear",
+    "region": "MusicPlay",
+    "requires": "|shiawase| and |Brand new world Present|"
+  },
+  {
+    "name": "Brand new world Present Full Recall",
+    "region": "MusicPlay",
+    "requires": "|shiawase| and |Brand new world Present|"
+  },
+  {
+    "name": "Brand new world Present Pure Memory",
+    "region": "MusicPlay",
+    "requires": "|shiawase| and |Brand new world Present|"
+  },
+  {
+    "name": "Brand new world Future Easy Clear",
+    "region": "SweptUpInAHeartbeat",
+    "requires": "(|Clotho and the stargazer Future| and |shiawase|) and (|Brand new world Future|)"
+  },
+  {
+    "name": "Brand new world Future Normal Clear",
+    "region": "SweptUpInAHeartbeat",
+    "requires": "(|Clotho and the stargazer Future| and |shiawase|) and (|Brand new world Future|)"
+  },
+  {
+    "name": "Brand new world Future Full Recall",
+    "region": "SweptUpInAHeartbeat",
+    "requires": "(|Clotho and the stargazer Future| and |shiawase|) and (|Brand new world Future|)"
+  },
+  {
+    "name": "Clotho and the stargazer Past Easy Clear",
+    "region": "MusicPlay",
+    "requires": "|shiawase|"
+  },
+  {
+    "name": "Clotho and the stargazer Past Normal Clear",
+    "region": "MusicPlay",
+    "requires": "|shiawase|"
+  },
+  {
+    "name": "Clotho and the stargazer Past Full Recall",
+    "region": "MusicPlay",
+    "requires": "|shiawase|"
+  },
+  {
+    "name": "Clotho and the stargazer Past Pure Memory",
+    "region": "MusicPlay",
+    "requires": "|shiawase|"
+  },
+  {
+    "name": "Clotho and the stargazer Present Easy Clear",
+    "region": "MusicPlay",
+    "requires": "|shiawase| and |Clotho and the stargazer Present|"
+  },
+  {
+    "name": "Clotho and the stargazer Present Normal Clear",
+    "region": "MusicPlay",
+    "requires": "|shiawase| and |Clotho and the stargazer Present|"
+  },
+  {
+    "name": "Clotho and the stargazer Present Full Recall",
+    "region": "MusicPlay",
+    "requires": "|shiawase| and |Clotho and the stargazer Present|"
+  },
+  {
+    "name": "Clotho and the stargazer Future Easy Clear",
+    "region": "SweptUpInAHeartbeat",
+    "requires": "|shiawase| and |Clotho and the stargazer Future|"
+  },
+  {
+    "name": "Clotho and the stargazer Future Normal Clear",
+    "region": "SweptUpInAHeartbeat",
+    "requires": "|shiawase| and |Clotho and the stargazer Future|"
+  },
+  {
+    "name": "Clotho and the stargazer Future Full Recall",
+    "region": "SweptUpInAHeartbeat",
+    "requires": "|shiawase| and |Clotho and the stargazer Future|"
+  },
+  {
+    "name": "Clotho and the stargazer Eternal Easy Clear",
+    "region": "MusicPlay",
+    "requires": "|shiawase| and |Clotho and the stargazer Eternal|"
+  },
+  {
+    "name": "Clotho and the stargazer Eternal Normal Clear",
+    "region": "MusicPlay",
+    "requires": "|shiawase| and |Clotho and the stargazer Eternal|"
+  },
+  {
+    "name": "Clotho and the stargazer Eternal Full Recall",
+    "region": "MusicPlay",
+    "requires": "|shiawase| and |Clotho and the stargazer Eternal|"
+  },
+  {
+    "name": "Dandelion Past Easy Clear",
+    "region": "MusicPlay",
+    "requires": "|base_light|"
+  },
+  {
+    "name": "Dandelion Past Normal Clear",
+    "region": "MusicPlay",
+    "requires": "|base_light|"
+  },
+  {
+    "name": "Dandelion Past Full Recall",
+    "region": "MusicPlay",
+    "requires": "|base_light|"
+  },
+  {
+    "name": "Dandelion Past Pure Memory",
+    "region": "MusicPlay",
+    "requires": "|base_light|"
+  },
+  {
+    "name": "Dandelion Present Easy Clear",
+    "region": "MusicPlay",
+    "requires": "|base_light| and |Dandelion Present|"
+  },
+  {
+    "name": "Dandelion Present Normal Clear",
+    "region": "MusicPlay",
+    "requires": "|base_light| and |Dandelion Present|"
+  },
+  {
+    "name": "Dandelion Present Full Recall",
+    "region": "MusicPlay",
+    "requires": "|base_light| and |Dandelion Present|"
+  },
+  {
+    "name": "Dandelion Future Easy Clear",
+    "region": "MusicPlay",
+    "requires": "|base_light| and |Dandelion Future|"
+  },
+  {
+    "name": "Dandelion Future Normal Clear",
+    "region": "MusicPlay",
+    "requires": "|base_light| and |Dandelion Future|"
+  },
+  {
+    "name": "Dandelion Future Full Recall",
+    "region": "MusicPlay",
+    "requires": "|base_light| and |Dandelion Future|"
+  },
+  {
+    "name": "DDD Past Easy Clear",
+    "region": "ExtraIV"
+  },
+  {
+    "name": "DDD Past Normal Clear",
+    "region": "ExtraIV"
+  },
+  {
+    "name": "DDD Past Full Recall",
+    "region": "ExtraIV"
+  },
+  {
+    "name": "DDD Past Pure Memory",
+    "region": "ExtraIV"
+  },
+  {
+    "name": "DDD Present Easy Clear",
+    "region": "ExtraIV",
+    "requires": "|DDD Present|"
+  },
+  {
+    "name": "DDD Present Normal Clear",
+    "region": "ExtraIV",
+    "requires": "|DDD Present|"
+  },
+  {
+    "name": "DDD Present Full Recall",
+    "region": "ExtraIV",
+    "requires": "|DDD Present|"
+  },
+  {
+    "name": "DDD Future Easy Clear",
+    "region": "ExtraIV",
+    "requires": "|DDD Future|"
+  },
+  {
+    "name": "DDD Future Normal Clear",
+    "region": "ExtraIV",
+    "requires": "|DDD Future|"
+  },
+  {
+    "name": "DDD Future Full Recall",
+    "region": "ExtraIV",
+    "requires": "|DDD Future|"
+  },
+  {
+    "name": "Diode Past Easy Clear",
+    "region": "ExtraII"
+  },
+  {
+    "name": "Diode Past Normal Clear",
+    "region": "ExtraII"
+  },
+  {
+    "name": "Diode Past Full Recall",
+    "region": "ExtraII"
+  },
+  {
+    "name": "Diode Past Pure Memory",
+    "region": "ExtraII"
+  },
+  {
+    "name": "Diode Present Easy Clear",
+    "region": "ExtraII",
+    "requires": "|Diode Present|"
+  },
+  {
+    "name": "Diode Present Normal Clear",
+    "region": "ExtraII",
+    "requires": "|Diode Present|"
+  },
+  {
+    "name": "Diode Present Full Recall",
+    "region": "ExtraII",
+    "requires": "|Diode Present|"
+  },
+  {
+    "name": "Diode Future Easy Clear",
+    "region": "ExtraII",
+    "requires": "|Diode Future|"
+  },
+  {
+    "name": "Diode Future Normal Clear",
+    "region": "ExtraII",
+    "requires": "|Diode Future|"
+  },
+  {
+    "name": "Diode Future Full Recall",
+    "region": "ExtraII",
+    "requires": "|Diode Future|"
+  },
+  {
+    "name": "Gimme Caramel Popcorn! Past Easy Clear",
+    "region": "MusicPlay",
+    "requires": "|hime_light|"
+  },
+  {
+    "name": "Gimme Caramel Popcorn! Past Normal Clear",
+    "region": "MusicPlay",
+    "requires": "|hime_light|"
+  },
+  {
+    "name": "Gimme Caramel Popcorn! Past Full Recall",
+    "region": "MusicPlay",
+    "requires": "|hime_light|"
+  },
+  {
+    "name": "Gimme Caramel Popcorn! Past Pure Memory",
+    "region": "MusicPlay",
+    "requires": "|hime_light|"
+  },
+  {
+    "name": "Gimme Caramel Popcorn! Present Easy Clear",
+    "region": "MusicPlay",
+    "requires": "|hime_light| and |Gimme Caramel Popcorn! Present|"
+  },
+  {
+    "name": "Gimme Caramel Popcorn! Present Normal Clear",
+    "region": "MusicPlay",
+    "requires": "|hime_light| and |Gimme Caramel Popcorn! Present|"
+  },
+  {
+    "name": "Gimme Caramel Popcorn! Present Full Recall",
+    "region": "MusicPlay",
+    "requires": "|hime_light| and |Gimme Caramel Popcorn! Present|"
+  },
+  {
+    "name": "Gimme Caramel Popcorn! Future Easy Clear",
+    "region": "MusicPlay",
+    "requires": "|hime_light| and |Gimme Caramel Popcorn! Future|"
+  },
+  {
+    "name": "Gimme Caramel Popcorn! Future Normal Clear",
+    "region": "MusicPlay",
+    "requires": "|hime_light| and |Gimme Caramel Popcorn! Future|"
+  },
+  {
+    "name": "Gimme Caramel Popcorn! Future Full Recall",
+    "region": "MusicPlay",
+    "requires": "|hime_light| and |Gimme Caramel Popcorn! Future|"
+  },
+  {
+    "name": "Gimme Caramel Popcorn! Eternal Easy Clear",
+    "region": "MusicPlay",
+    "requires": "|hime_light| and |Gimme Caramel Popcorn! Eternal|"
+  },
+  {
+    "name": "Gimme Caramel Popcorn! Eternal Normal Clear",
+    "region": "MusicPlay",
+    "requires": "(|hime_light| and |Gimme Caramel Popcorn! Eternal|) and (|Tairitsu|)"
+  },
+  {
+    "name": "Grimheart Past Easy Clear",
+    "region": "StoryMode",
+    "requires": "|rei|"
+  },
+  {
+    "name": "Grimheart Past Normal Clear",
+    "region": "StoryMode",
+    "requires": "|rei|"
+  },
+  {
+    "name": "Grimheart Past Full Recall",
+    "region": "StoryMode",
+    "requires": "|rei|"
+  },
+  {
+    "name": "Grimheart Past Pure Memory",
+    "region": "StoryMode",
+    "requires": "|rei|"
+  },
+  {
+    "name": "Grimheart Present Easy Clear",
+    "region": "StoryMode",
+    "requires": "|rei| and (((|Course Mode| and |First Step in a New World|) and |inkar-usi Present|) and (|Grimheart Present|))"
+  },
+  {
+    "name": "Grimheart Present Normal Clear",
+    "region": "StoryMode",
+    "requires": "|rei| and (((|Course Mode| and |First Step in a New World|) and |inkar-usi Present|) and (|Grimheart Present|))"
+  },
+  {
+    "name": "Grimheart Present Full Recall",
+    "region": "StoryMode",
+    "requires": "|rei| and (((|Course Mode| and |First Step in a New World|) and |inkar-usi Present|) and (|Grimheart Present|))"
+  },
+  {
+    "name": "Grimheart Future Easy Clear",
+    "region": "UnceasingSpirit",
+    "requires": "(|Story Mode| and |rei|) and (|inkar-usi Future| and |Grimheart Future|)"
+  },
+  {
+    "name": "Grimheart Future Normal Clear",
+    "region": "UnceasingSpirit",
+    "requires": "(|Story Mode| and |rei|) and (|inkar-usi Future| and |Grimheart Future|)"
+  },
+  {
+    "name": "Grimheart Future Full Recall",
+    "region": "UnceasingSpirit",
+    "requires": "(|Story Mode| and |rei|) and (|inkar-usi Future| and |Grimheart Future|)"
+  },
+  {
+    "name": "Hidden Rainbows of Epicurus Past Easy Clear",
+    "region": "MusicPlay",
+    "requires": "|touhou_light|"
+  },
+  {
+    "name": "Hidden Rainbows of Epicurus Past Normal Clear",
+    "region": "MusicPlay",
+    "requires": "|touhou_light|"
+  },
+  {
+    "name": "Hidden Rainbows of Epicurus Past Full Recall",
+    "region": "MusicPlay",
+    "requires": "|touhou_light|"
+  },
+  {
+    "name": "Hidden Rainbows of Epicurus Past Pure Memory",
+    "region": "MusicPlay",
+    "requires": "|touhou_light|"
+  },
+  {
+    "name": "Hidden Rainbows of Epicurus Present Easy Clear",
+    "region": "MusicPlay",
+    "requires": "|touhou_light| and |Hidden Rainbows of Epicurus Present|"
+  },
+  {
+    "name": "Hidden Rainbows of Epicurus Present Normal Clear",
+    "region": "MusicPlay",
+    "requires": "|touhou_light| and |Hidden Rainbows of Epicurus Present|"
+  },
+  {
+    "name": "Hidden Rainbows of Epicurus Present Full Recall",
+    "region": "MusicPlay",
+    "requires": "|touhou_light| and |Hidden Rainbows of Epicurus Present|"
+  },
+  {
+    "name": "Hidden Rainbows of Epicurus Future Easy Clear",
+    "region": "MusicPlay",
+    "requires": "|touhou_light| and |Hidden Rainbows of Epicurus Future|"
+  },
+  {
+    "name": "Hidden Rainbows of Epicurus Future Normal Clear",
+    "region": "MusicPlay",
+    "requires": "|touhou_light| and |Hidden Rainbows of Epicurus Future|"
+  },
+  {
+    "name": "Hidden Rainbows of Epicurus Future Full Recall",
+    "region": "MusicPlay",
+    "requires": "|touhou_light| and |Hidden Rainbows of Epicurus Future|"
+  },
+  {
+    "name": "Hidden Rainbows of Epicurus Eternal Easy Clear",
+    "region": "MusicPlay",
+    "requires": "|touhou_light| and |Hidden Rainbows of Epicurus Eternal|"
+  },
+  {
+    "name": "Hidden Rainbows of Epicurus Eternal Normal Clear",
+    "region": "MusicPlay",
+    "requires": "|touhou_light| and |Hidden Rainbows of Epicurus Eternal|"
+  },
+  {
+    "name": "Hidden Rainbows of Epicurus Eternal Full Recall",
+    "region": "MusicPlay",
+    "requires": "|touhou_light| and |Hidden Rainbows of Epicurus Eternal|"
+  },
+  {
+    "name": "Illegal Paradise Past Easy Clear",
+    "region": "ConflictIII",
+    "requires": "|Illegal Paradise|"
+  },
+  {
+    "name": "Illegal Paradise Past Normal Clear",
+    "region": "ConflictIII",
+    "requires": "|Illegal Paradise|"
+  },
+  {
+    "name": "Illegal Paradise Past Full Recall",
+    "region": "ConflictIII",
+    "requires": "|Illegal Paradise|"
+  },
+  {
+    "name": "Illegal Paradise Past Pure Memory",
+    "region": "ConflictIII",
+    "requires": "|Illegal Paradise|"
+  },
+  {
+    "name": "Illegal Paradise Present Easy Clear",
+    "region": "ConflictIII",
+    "requires": "|Illegal Paradise| and |Illegal Paradise Present|"
+  },
+  {
+    "name": "Illegal Paradise Present Normal Clear",
+    "region": "ConflictIII",
+    "requires": "|Illegal Paradise| and |Illegal Paradise Present|"
+  },
+  {
+    "name": "Illegal Paradise Present Full Recall",
+    "region": "ConflictIII",
+    "requires": "|Illegal Paradise| and |Illegal Paradise Present|"
+  },
+  {
+    "name": "Illegal Paradise Future Easy Clear",
+    "region": "ConflictIII",
+    "requires": "|Illegal Paradise| and |Illegal Paradise Future|"
+  },
+  {
+    "name": "Illegal Paradise Future Normal Clear",
+    "region": "ConflictIII",
+    "requires": "(|Illegal Paradise| and |Illegal Paradise Future|) and (|Tairitsu|)"
+  },
+  {
+    "name": "inkar-usi Past Easy Clear",
+    "region": "StoryMode"
+  },
+  {
+    "name": "inkar-usi Past Normal Clear",
+    "region": "StoryMode"
+  },
+  {
+    "name": "inkar-usi Past Full Recall",
+    "region": "StoryMode"
+  },
+  {
+    "name": "inkar-usi Past Pure Memory",
+    "region": "StoryMode"
+  },
+  {
+    "name": "inkar-usi Present Easy Clear",
+    "region": "FirstStepInANewWorld"
+  },
+  {
+    "name": "inkar-usi Present Normal Clear",
+    "region": "FirstStepInANewWorld"
+  },
+  {
+    "name": "inkar-usi Present Full Recall",
+    "region": "FirstStepInANewWorld"
+  },
+  {
+    "name": "inkar-usi Present Pure Memory",
+    "region": "FirstStepInANewWorld"
+  },
+  {
+    "name": "inkar-usi Future Easy Clear",
+    "region": "StoryMode",
+    "requires": "|inkar-usi Future|"
+  },
+  {
+    "name": "inkar-usi Future Normal Clear",
+    "region": "StoryMode",
+    "requires": "|inkar-usi Future|"
+  },
+  {
+    "name": "inkar-usi Future Full Recall",
+    "region": "StoryMode",
+    "requires": "|inkar-usi Future|"
+  },
+  {
+    "name": "inkar-usi Beyond Easy Clear",
+    "region": "Beyond",
+    "requires": "|Story Mode| and ((|Lost World| and |base_light|) and (|inkar-usi Beyond| and |inkar-usi Future|))"
+  },
+  {
+    "name": "inkar-usi Beyond Normal Clear",
+    "region": "Beyond",
+    "requires": "|Story Mode| and ((|Lost World| and |base_light|) and (|inkar-usi Beyond| and |inkar-usi Future|) and (|Tairitsu|))"
+  },
+  {
+    "name": "Jingle Past Easy Clear",
+    "region": "MusicPlay",
+    "requires": "|single2_light|"
+  },
+  {
+    "name": "Jingle Past Normal Clear",
+    "region": "MusicPlay",
+    "requires": "|single2_light|"
+  },
+  {
+    "name": "Jingle Past Full Recall",
+    "region": "MusicPlay",
+    "requires": "|single2_light|"
+  },
+  {
+    "name": "Jingle Past Pure Memory",
+    "region": "MusicPlay",
+    "requires": "|single2_light|"
+  },
+  {
+    "name": "Jingle Present Easy Clear",
+    "region": "MusicPlay",
+    "requires": "|single2_light| and |Jingle Present|"
+  },
+  {
+    "name": "Jingle Present Normal Clear",
+    "region": "MusicPlay",
+    "requires": "|single2_light| and |Jingle Present|"
+  },
+  {
+    "name": "Jingle Present Full Recall",
+    "region": "MusicPlay",
+    "requires": "|single2_light| and |Jingle Present|"
+  },
+  {
+    "name": "Jingle Future Easy Clear",
+    "region": "MusicPlay",
+    "requires": "|single2_light| and |Jingle Future|"
+  },
+  {
+    "name": "Jingle Future Normal Clear",
+    "region": "MusicPlay",
+    "requires": "|single2_light| and |Jingle Future|"
+  },
+  {
+    "name": "Jingle Future Full Recall",
+    "region": "MusicPlay",
+    "requires": "|single2_light| and |Jingle Future|"
+  },
+  {
+    "name": "Jingle Eternal Easy Clear",
+    "region": "MusicPlay",
+    "requires": "|single2_light| and |Jingle Eternal|"
+  },
+  {
+    "name": "Jingle Eternal Normal Clear",
+    "region": "MusicPlay",
+    "requires": "(|single2_light| and |Jingle Eternal|) and (|Tairitsu|)"
+  },
+  {
+    "name": "One Last Drive Past Easy Clear",
+    "region": "MusicPlay",
+    "requires": "|base_light|"
+  },
+  {
+    "name": "One Last Drive Past Normal Clear",
+    "region": "MusicPlay",
+    "requires": "|base_light|"
+  },
+  {
+    "name": "One Last Drive Past Full Recall",
+    "region": "MusicPlay",
+    "requires": "|base_light|"
+  },
+  {
+    "name": "One Last Drive Past Pure Memory",
+    "region": "MusicPlay",
+    "requires": "|base_light|"
+  },
+  {
+    "name": "One Last Drive Present Easy Clear",
+    "region": "MusicPlay",
+    "requires": "|base_light| and |One Last Drive Present|"
+  },
+  {
+    "name": "One Last Drive Present Normal Clear",
+    "region": "MusicPlay",
+    "requires": "|base_light| and |One Last Drive Present|"
+  },
+  {
+    "name": "One Last Drive Present Full Recall",
+    "region": "MusicPlay",
+    "requires": "|base_light| and |One Last Drive Present|"
+  },
+  {
+    "name": "One Last Drive Future Easy Clear",
+    "region": "MusicPlay",
+    "requires": "|base_light| and |One Last Drive Future|"
+  },
+  {
+    "name": "One Last Drive Future Normal Clear",
+    "region": "MusicPlay",
+    "requires": "|base_light| and |One Last Drive Future|"
+  },
+  {
+    "name": "One Last Drive Future Full Recall",
+    "region": "MusicPlay",
+    "requires": "|base_light| and |One Last Drive Future|"
+  },
+  {
+    "name": "Purgatorium Past Easy Clear",
+    "region": "MusicPlay",
+    "requires": "|base_conflict|"
+  },
+  {
+    "name": "Purgatorium Past Normal Clear",
+    "region": "MusicPlay",
+    "requires": "|base_conflict|"
+  },
+  {
+    "name": "Purgatorium Past Full Recall",
+    "region": "MusicPlay",
+    "requires": "|base_conflict|"
+  },
+  {
+    "name": "Purgatorium Past Pure Memory",
+    "region": "MusicPlay",
+    "requires": "|base_conflict|"
+  },
+  {
+    "name": "Purgatorium Present Easy Clear",
+    "region": "FirstStepInANewWorld",
+    "requires": "(|base_conflict| and |hime_light|) and ((|Sakura Fubuki Present| and |Purgatorium Present|) and (|Snow White Present| and |Rise Present|))"
+  },
+  {
+    "name": "Purgatorium Present Normal Clear",
+    "region": "FirstStepInANewWorld",
+    "requires": "(|base_conflict| and |hime_light|) and ((|Sakura Fubuki Present| and |Purgatorium Present|) and (|Snow White Present| and |Rise Present|))"
+  },
+  {
+    "name": "Purgatorium Present Full Recall",
+    "region": "FirstStepInANewWorld",
+    "requires": "(|base_conflict| and |hime_light|) and ((|Sakura Fubuki Present| and |Purgatorium Present|) and (|Snow White Present| and |Rise Present|))"
+  },
+  {
+    "name": "Purgatorium Future Easy Clear",
+    "region": "MusicPlay",
+    "requires": "|base_conflict| and |Purgatorium Future|"
+  },
+  {
+    "name": "Purgatorium Future Normal Clear",
+    "region": "MusicPlay",
+    "requires": "|base_conflict| and |Purgatorium Future|"
+  },
+  {
+    "name": "Purgatorium Future Full Recall",
+    "region": "MusicPlay",
+    "requires": "|base_conflict| and |Purgatorium Future|"
+  },
+  {
+    "name": "Purgatorium Beyond Easy Clear",
+    "region": "Beyond",
+    "requires": "|base_conflict| and (|Purgatorium Beyond| and |Purgatorium Future|)"
+  },
+  {
+    "name": "Purgatorium Beyond Normal Clear",
+    "region": "Beyond",
+    "requires": "|base_conflict| and (|Purgatorium Beyond| and |Purgatorium Future|) and (|Tairitsu|)"
+  },
+  {
+    "name": "Rabbit In The Black Room Past Easy Clear",
+    "region": "ConflictII"
+  },
+  {
+    "name": "Rabbit In The Black Room Past Normal Clear",
+    "region": "ConflictII"
+  },
+  {
+    "name": "Rabbit In The Black Room Past Full Recall",
+    "region": "ConflictII"
+  },
+  {
+    "name": "Rabbit In The Black Room Past Pure Memory",
+    "region": "ConflictII"
+  },
+  {
+    "name": "Rabbit In The Black Room Present Easy Clear",
+    "region": "ConflictII",
+    "requires": "|Rabbit In The Black Room Present|"
+  },
+  {
+    "name": "Rabbit In The Black Room Present Normal Clear",
+    "region": "ConflictII",
+    "requires": "|Rabbit In The Black Room Present|"
+  },
+  {
+    "name": "Rabbit In The Black Room Present Full Recall",
+    "region": "ConflictII",
+    "requires": "|Rabbit In The Black Room Present|"
+  },
+  {
+    "name": "Rabbit In The Black Room Future Easy Clear",
+    "region": "ConflictII",
+    "requires": "|Rabbit In The Black Room Future|"
+  },
+  {
+    "name": "Rabbit In The Black Room Future Normal Clear",
+    "region": "ConflictII",
+    "requires": "|Rabbit In The Black Room Future|"
+  },
+  {
+    "name": "Rabbit In The Black Room Future Full Recall",
+    "region": "ConflictII",
+    "requires": "|Rabbit In The Black Room Future|"
+  },
+  {
+    "name": "Reinvent Past Easy Clear",
+    "region": "MusicPlay",
+    "requires": "|base_light|"
+  },
+  {
+    "name": "Reinvent Past Normal Clear",
+    "region": "MusicPlay",
+    "requires": "|base_light|"
+  },
+  {
+    "name": "Reinvent Past Full Recall",
+    "region": "MusicPlay",
+    "requires": "|base_light|"
+  },
+  {
+    "name": "Reinvent Past Pure Memory",
+    "region": "MusicPlay",
+    "requires": "|base_light|"
+  },
+  {
+    "name": "Reinvent Present Easy Clear",
+    "region": "MusicPlay",
+    "requires": "|base_light| and |Reinvent Present|"
+  },
+  {
+    "name": "Reinvent Present Normal Clear",
+    "region": "MusicPlay",
+    "requires": "|base_light| and |Reinvent Present|"
+  },
+  {
+    "name": "Reinvent Present Full Recall",
+    "region": "MusicPlay",
+    "requires": "|base_light| and |Reinvent Present|"
+  },
+  {
+    "name": "Reinvent Future Easy Clear",
+    "region": "MusicPlay",
+    "requires": "|base_light| and |Reinvent Future|"
+  },
+  {
+    "name": "Reinvent Future Normal Clear",
+    "region": "MusicPlay",
+    "requires": "|base_light| and |Reinvent Future|"
+  },
+  {
+    "name": "Reinvent Future Full Recall",
+    "region": "MusicPlay",
+    "requires": "|base_light| and |Reinvent Future|"
+  },
+  {
+    "name": "Rise Past Easy Clear",
+    "region": "MusicPlay",
+    "requires": "|base_light|"
+  },
+  {
+    "name": "Rise Past Normal Clear",
+    "region": "MusicPlay",
+    "requires": "|base_light|"
+  },
+  {
+    "name": "Rise Past Full Recall",
+    "region": "MusicPlay",
+    "requires": "|base_light|"
+  },
+  {
+    "name": "Rise Past Pure Memory",
+    "region": "MusicPlay",
+    "requires": "|base_light|"
+  },
+  {
+    "name": "Rise Present Easy Clear",
+    "region": "MusicPlay",
+    "requires": "|base_light| and |Rise Present|"
+  },
+  {
+    "name": "Rise Present Normal Clear",
+    "region": "MusicPlay",
+    "requires": "|base_light| and |Rise Present|"
+  },
+  {
+    "name": "Rise Present Full Recall",
+    "region": "MusicPlay",
+    "requires": "|base_light| and |Rise Present|"
+  },
+  {
+    "name": "Rise Present Pure Memory",
+    "region": "MusicPlay",
+    "requires": "|base_light| and |Rise Present|"
+  },
+  {
+    "name": "Rise Future Easy Clear",
+    "region": "MusicPlay",
+    "requires": "|base_light| and |Rise Future|"
+  },
+  {
+    "name": "Rise Future Normal Clear",
+    "region": "MusicPlay",
+    "requires": "|base_light| and |Rise Future|"
+  },
+  {
+    "name": "Rise Future Full Recall",
+    "region": "MusicPlay",
+    "requires": "|base_light| and |Rise Future|"
+  },
+  {
+    "name": "Snow White Past Easy Clear",
+    "region": "MusicPlay",
+    "requires": "|base_light|"
+  },
+  {
+    "name": "Snow White Past Normal Clear",
+    "region": "MusicPlay",
+    "requires": "|base_light|"
+  },
+  {
+    "name": "Snow White Past Full Recall",
+    "region": "MusicPlay",
+    "requires": "|base_light|"
+  },
+  {
+    "name": "Snow White Past Pure Memory",
+    "region": "MusicPlay",
+    "requires": "|base_light|"
+  },
+  {
+    "name": "Snow White Present Easy Clear",
+    "region": "FirstStepInANewWorld",
+    "requires": "|Snow White Present| and |Rise Present|"
+  },
+  {
+    "name": "Snow White Present Normal Clear",
+    "region": "FirstStepInANewWorld",
+    "requires": "|Snow White Present| and |Rise Present|"
+  },
+  {
+    "name": "Snow White Present Full Recall",
+    "region": "FirstStepInANewWorld",
+    "requires": "|Snow White Present| and |Rise Present|"
+  },
+  {
+    "name": "Snow White Future Easy Clear",
+    "region": "MusicPlay",
+    "requires": "|base_light| and (|Snow White Future| and |Rise Future|)"
+  },
+  {
+    "name": "Snow White Future Normal Clear",
+    "region": "MusicPlay",
+    "requires": "|base_light| and (|Snow White Future| and |Rise Future|)"
+  },
+  {
+    "name": "Snow White Future Full Recall",
+    "region": "MusicPlay",
+    "requires": "|base_light| and (|Snow White Future| and |Rise Future|)"
+  },
+  {
+    "name": "Snow White Beyond Easy Clear",
+    "region": "Beyond",
+    "requires": "((|Outer Reaches|) and ((|nijuusei2_light|) and (|base_light| or |base_conflict|))) and (|Snow White Beyond| and |Snow White Future|)"
+  },
+  {
+    "name": "Snow White Beyond Normal Clear",
+    "region": "Beyond",
+    "requires": "(((|Outer Reaches|) and ((|nijuusei2_light|) and (|base_light| or |base_conflict|))) and (|Snow White Beyond| and |Snow White Future|)) and (|Tairitsu|)"
+  },
+  {
+    "name": "Suomi Past Easy Clear",
+    "region": "LightIII"
+  },
+  {
+    "name": "Suomi Past Normal Clear",
+    "region": "LightIII"
+  },
+  {
+    "name": "Suomi Past Full Recall",
+    "region": "LightIII"
+  },
+  {
+    "name": "Suomi Past Pure Memory",
+    "region": "LightIII"
+  },
+  {
+    "name": "Suomi Present Easy Clear",
+    "region": "LightIII",
+    "requires": "|Suomi Present|"
+  },
+  {
+    "name": "Suomi Present Normal Clear",
+    "region": "LightIII",
+    "requires": "|Suomi Present|"
+  },
+  {
+    "name": "Suomi Present Full Recall",
+    "region": "LightIII",
+    "requires": "|Suomi Present|"
+  },
+  {
+    "name": "Suomi Future Easy Clear",
+    "region": "UnceasingSpirit"
+  },
+  {
+    "name": "Suomi Future Normal Clear",
+    "region": "UnceasingSpirit"
+  },
+  {
+    "name": "Suomi Future Full Recall",
+    "region": "UnceasingSpirit"
+  },
+  {
+    "name": "Suomi Eternal Easy Clear",
+    "region": "LightIII",
+    "requires": "|Suomi Eternal|"
+  },
+  {
+    "name": "Suomi Eternal Normal Clear",
+    "region": "LightIII",
+    "requires": "|Suomi Eternal|"
+  },
+  {
+    "name": "Suomi Eternal Full Recall",
+    "region": "LightIII",
+    "requires": "|Suomi Eternal|"
+  },
+  {
+    "name": "Vexaria Past Easy Clear",
+    "region": "MusicPlay",
+    "requires": "|base_light|"
+  },
+  {
+    "name": "Vexaria Past Normal Clear",
+    "region": "MusicPlay",
+    "requires": "|base_light|"
+  },
+  {
+    "name": "Vexaria Past Full Recall",
+    "region": "MusicPlay",
+    "requires": "|base_light|"
+  },
+  {
+    "name": "Vexaria Past Pure Memory",
+    "region": "MusicPlay",
+    "requires": "|base_light|"
+  },
+  {
+    "name": "Vexaria Present Easy Clear",
+    "region": "MusicPlay",
+    "requires": "|base_light| and |Vexaria Present|"
+  },
+  {
+    "name": "Vexaria Present Normal Clear",
+    "region": "MusicPlay",
+    "requires": "|base_light| and |Vexaria Present|"
+  },
+  {
+    "name": "Vexaria Present Full Recall",
+    "region": "MusicPlay",
+    "requires": "|base_light| and |Vexaria Present|"
+  },
+  {
+    "name": "Vexaria Future Easy Clear",
+    "region": "SweptUpInAHeartbeat"
+  },
+  {
+    "name": "Vexaria Future Normal Clear",
+    "region": "SweptUpInAHeartbeat"
+  },
+  {
+    "name": "Vexaria Future Full Recall",
+    "region": "SweptUpInAHeartbeat"
+  },
+  {
+    "name": "Vexaria Beyond Easy Clear",
+    "region": "Beyond",
+    "requires": "(((|base_light| and |shiawase|) and (|mirai_light| and |prelude_light|)) and (|base_conflict|)) and (|Story Mode| and |Vexaria Beyond|)"
+  },
+  {
+    "name": "Vexaria Beyond Normal Clear",
+    "region": "Beyond",
+    "requires": "((((|base_light| and |shiawase|) and (|mirai_light| and |prelude_light|)) and (|base_conflict|)) and (|Story Mode| and |Vexaria Beyond|)) and (|Tairitsu|)"
+  },
+  {
+    "name": "Babaroque Past Easy Clear",
+    "region": "LightI"
+  },
+  {
+    "name": "Babaroque Past Normal Clear",
+    "region": "LightI"
+  },
+  {
+    "name": "Babaroque Past Full Recall",
+    "region": "LightI"
+  },
+  {
+    "name": "Babaroque Past Pure Memory",
+    "region": "LightI"
+  },
+  {
+    "name": "Babaroque Present Easy Clear",
+    "region": "LightI",
+    "requires": "|Babaroque Present|"
+  },
+  {
+    "name": "Babaroque Present Normal Clear",
+    "region": "LightI",
+    "requires": "|Babaroque Present|"
+  },
+  {
+    "name": "Babaroque Present Full Recall",
+    "region": "LightI",
+    "requires": "|Babaroque Present|"
+  },
+  {
+    "name": "Babaroque Future Easy Clear",
+    "region": "LightI",
+    "requires": "|Babaroque Future|"
+  },
+  {
+    "name": "Babaroque Future Normal Clear",
+    "region": "LightI",
+    "requires": "|Babaroque Future|"
+  },
+  {
+    "name": "Babaroque Future Full Recall",
+    "region": "LightI",
+    "requires": "|Babaroque Future|"
+  },
+  {
+    "name": "Chronostasis Past Easy Clear",
+    "region": "MusicPlay",
+    "requires": "|base_conflict|"
+  },
+  {
+    "name": "Chronostasis Past Normal Clear",
+    "region": "MusicPlay",
+    "requires": "|base_conflict|"
+  },
+  {
+    "name": "Chronostasis Past Full Recall",
+    "region": "MusicPlay",
+    "requires": "|base_conflict|"
+  },
+  {
+    "name": "Chronostasis Past Pure Memory",
+    "region": "MusicPlay",
+    "requires": "|base_conflict|"
+  },
+  {
+    "name": "Chronostasis Present Easy Clear",
+    "region": "MusicPlay",
+    "requires": "(|base_conflict| and |base_light|) and (|Chronostasis Present| and |Infinity Heaven Present|)"
+  },
+  {
+    "name": "Chronostasis Present Normal Clear",
+    "region": "MusicPlay",
+    "requires": "(|base_conflict| and |base_light|) and (|Chronostasis Present| and |Infinity Heaven Present|)"
+  },
+  {
+    "name": "Chronostasis Present Full Recall",
+    "region": "MusicPlay",
+    "requires": "(|base_conflict| and |base_light|) and (|Chronostasis Present| and |Infinity Heaven Present|)"
+  },
+  {
+    "name": "Chronostasis Future Easy Clear",
+    "region": "MusicPlay",
+    "requires": "(|base_conflict| and |base_light|) and (|Chronostasis Future| and |Infinity Heaven Future|)"
+  },
+  {
+    "name": "Chronostasis Future Normal Clear",
+    "region": "MusicPlay",
+    "requires": "(|base_conflict| and |base_light|) and (|Chronostasis Future| and |Infinity Heaven Future|)"
+  },
+  {
+    "name": "Chronostasis Future Full Recall",
+    "region": "MusicPlay",
+    "requires": "(|base_conflict| and |base_light|) and (|Chronostasis Future| and |Infinity Heaven Future|)"
+  },
+  {
+    "name": "Dancin' on a Cat's Paw Past Easy Clear",
+    "region": "ExtraIII",
+    "requires": "|Dancin' on a Cat's Paw| and (|NULCTRL| and |prelude_conflict|)"
+  },
+  {
+    "name": "Dancin' on a Cat's Paw Past Normal Clear",
+    "region": "ExtraIII",
+    "requires": "|Dancin' on a Cat's Paw| and (|NULCTRL| and |prelude_conflict|)"
+  },
+  {
+    "name": "Dancin' on a Cat's Paw Past Full Recall",
+    "region": "ExtraIII",
+    "requires": "|Dancin' on a Cat's Paw| and (|NULCTRL| and |prelude_conflict|)"
+  },
+  {
+    "name": "Dancin' on a Cat's Paw Past Pure Memory",
+    "region": "ExtraIII",
+    "requires": "|Dancin' on a Cat's Paw| and (|NULCTRL| and |prelude_conflict|)"
+  },
+  {
+    "name": "Dancin' on a Cat's Paw Present Easy Clear",
+    "region": "ExtraIII",
+    "requires": "|NULCTRL| and (|prelude_conflict|) and (|Dancin' on a Cat's Paw| and |Dancin' on a Cat's Paw Present|)"
+  },
+  {
+    "name": "Dancin' on a Cat's Paw Present Normal Clear",
+    "region": "ExtraIII",
+    "requires": "|NULCTRL| and (|prelude_conflict|) and (|Dancin' on a Cat's Paw| and |Dancin' on a Cat's Paw Present|)"
+  },
+  {
+    "name": "Dancin' on a Cat's Paw Present Full Recall",
+    "region": "ExtraIII",
+    "requires": "|NULCTRL| and (|prelude_conflict|) and (|Dancin' on a Cat's Paw| and |Dancin' on a Cat's Paw Present|)"
+  },
+  {
+    "name": "Dancin' on a Cat's Paw Future Easy Clear",
+    "region": "ExtraIII",
+    "requires": "(|Dancin' on a Cat's Paw| and |Dancin' on a Cat's Paw Future|) and ((|Ävril Future|) and ((|NULCTRL| and |NULCTRL Future|) and (|prelude_conflict|)))"
+  },
+  {
+    "name": "Dancin' on a Cat's Paw Future Normal Clear",
+    "region": "ExtraIII",
+    "requires": "((|Dancin' on a Cat's Paw| and |Dancin' on a Cat's Paw Future|) and ((|Ävril Future|) and ((|NULCTRL| and |NULCTRL Future|) and (|prelude_conflict|)))) and (|Tairitsu|)"
+  },
+  {
+    "name": "Dement Past Easy Clear",
+    "region": "MusicPlay",
+    "requires": "|base_conflict|"
+  },
+  {
+    "name": "Dement Past Normal Clear",
+    "region": "MusicPlay",
+    "requires": "|base_conflict|"
+  },
+  {
+    "name": "Dement Past Full Recall",
+    "region": "MusicPlay",
+    "requires": "|base_conflict|"
+  },
+  {
+    "name": "Dement Past Pure Memory",
+    "region": "MusicPlay",
+    "requires": "|base_conflict|"
+  },
+  {
+    "name": "Dement Present Easy Clear",
+    "region": "MusicPlay",
+    "requires": "|base_conflict| and |Dement Present|"
+  },
+  {
+    "name": "Dement Present Normal Clear",
+    "region": "MusicPlay",
+    "requires": "|base_conflict| and |Dement Present|"
+  },
+  {
+    "name": "Dement Present Full Recall",
+    "region": "MusicPlay",
+    "requires": "|base_conflict| and |Dement Present|"
+  },
+  {
+    "name": "Dement Future Easy Clear",
+    "region": "MusicPlay",
+    "requires": "|base_conflict| and |Dement Future|"
+  },
+  {
+    "name": "Dement Future Normal Clear",
+    "region": "MusicPlay",
+    "requires": "|base_conflict| and |Dement Future|"
+  },
+  {
+    "name": "Dement Future Full Recall",
+    "region": "MusicPlay",
+    "requires": "|base_conflict| and |Dement Future|"
+  },
+  {
+    "name": "Dement Beyond Easy Clear",
+    "region": "Beyond",
+    "requires": "|base_conflict| and |Dement Beyond|"
+  },
+  {
+    "name": "Dement Beyond Normal Clear",
+    "region": "Beyond",
+    "requires": "(|base_conflict| and |Dement Beyond|) and (|Tairitsu|)"
+  },
+  {
+    "name": "Dialnote Past Easy Clear",
+    "region": "MusicPlay",
+    "requires": "|nijuusei2_light|"
+  },
+  {
+    "name": "Dialnote Past Normal Clear",
+    "region": "MusicPlay",
+    "requires": "|nijuusei2_light|"
+  },
+  {
+    "name": "Dialnote Past Full Recall",
+    "region": "MusicPlay",
+    "requires": "|nijuusei2_light|"
+  },
+  {
+    "name": "Dialnote Past Pure Memory",
+    "region": "MusicPlay",
+    "requires": "|nijuusei2_light|"
+  },
+  {
+    "name": "Dialnote Present Easy Clear",
+    "region": "MusicPlay",
+    "requires": "|nijuusei2_light| and |Dialnote Present|"
+  },
+  {
+    "name": "Dialnote Present Normal Clear",
+    "region": "MusicPlay",
+    "requires": "|nijuusei2_light| and |Dialnote Present|"
+  },
+  {
+    "name": "Dialnote Present Full Recall",
+    "region": "MusicPlay",
+    "requires": "|nijuusei2_light| and |Dialnote Present|"
+  },
+  {
+    "name": "Dialnote Future Easy Clear",
+    "region": "MusicPlay",
+    "requires": "|nijuusei2_light| and |Dialnote Future|"
+  },
+  {
+    "name": "Dialnote Future Normal Clear",
+    "region": "MusicPlay",
+    "requires": "|nijuusei2_light| and |Dialnote Future|"
+  },
+  {
+    "name": "Dialnote Future Full Recall",
+    "region": "MusicPlay",
+    "requires": "|nijuusei2_light| and |Dialnote Future|"
+  },
+  {
+    "name": "Ignotus Past Easy Clear",
+    "region": "ConflictI",
+    "requires": "|Ignotus| and |Anökumene|"
+  },
+  {
+    "name": "Ignotus Past Normal Clear",
+    "region": "ConflictI",
+    "requires": "|Ignotus| and |Anökumene|"
+  },
+  {
+    "name": "Ignotus Past Full Recall",
+    "region": "ConflictI",
+    "requires": "|Ignotus| and |Anökumene|"
+  },
+  {
+    "name": "Ignotus Past Pure Memory",
+    "region": "ConflictI",
+    "requires": "|Ignotus| and |Anökumene|"
+  },
+  {
+    "name": "Ignotus Present Easy Clear",
+    "region": "ConflictI",
+    "requires": "(|Ignotus| and |Ignotus Present|) and (|Anökumene|)"
+  },
+  {
+    "name": "Ignotus Present Normal Clear",
+    "region": "ConflictI",
+    "requires": "(|Ignotus| and |Ignotus Present|) and (|Anökumene|)"
+  },
+  {
+    "name": "Ignotus Present Full Recall",
+    "region": "ConflictI",
+    "requires": "(|Ignotus| and |Ignotus Present|) and (|Anökumene|)"
+  },
+  {
+    "name": "Ignotus Future Easy Clear",
+    "region": "ConflictI",
+    "requires": "(|Ignotus| and |Ignotus Future|) and (|Anökumene|)"
+  },
+  {
+    "name": "Ignotus Future Normal Clear",
+    "region": "ConflictI",
+    "requires": "((|Ignotus| and |Ignotus Future|) and (|Anökumene|)) and (|Tairitsu|)"
+  },
+  {
+    "name": "Ignotus Afterburn Easy Clear",
+    "region": "Beyond",
+    "requires": "((|Lost World| and |Progressive Conflict:1|) and (|Lucifer| and |Anökumene|)) and ((|base_conflict| and |byd_conflict|) and ((|Ignotus|) and (|Ignotus Afterburn| and |Ignotus Future|)))"
+  },
+  {
+    "name": "Ignotus Afterburn Normal Clear",
+    "region": "Beyond",
+    "requires": "(((|Lost World| and |Progressive Conflict:1|) and (|Lucifer| and |Anökumene|)) and ((|base_conflict| and |byd_conflict|) and ((|Ignotus|) and (|Ignotus Afterburn| and |Ignotus Future|)))) and (|Tairitsu|)"
+  },
+  {
+    "name": "Lucifer Past Easy Clear",
+    "region": "ConflictI"
+  },
+  {
+    "name": "Lucifer Past Normal Clear",
+    "region": "ConflictI"
+  },
+  {
+    "name": "Lucifer Past Full Recall",
+    "region": "ConflictI"
+  },
+  {
+    "name": "Lucifer Past Pure Memory",
+    "region": "ConflictI"
+  },
+  {
+    "name": "Lucifer Present Easy Clear",
+    "region": "ConflictI",
+    "requires": "|Lucifer Present|"
+  },
+  {
+    "name": "Lucifer Present Normal Clear",
+    "region": "ConflictI",
+    "requires": "|Lucifer Present|"
+  },
+  {
+    "name": "Lucifer Present Full Recall",
+    "region": "ConflictI",
+    "requires": "|Lucifer Present|"
+  },
+  {
+    "name": "Lucifer Future Easy Clear",
+    "region": "ConflictI",
+    "requires": "|Lucifer Future|"
+  },
+  {
+    "name": "Lucifer Future Normal Clear",
+    "region": "ConflictI",
+    "requires": "|Lucifer Future|"
+  },
+  {
+    "name": "Lucifer Future Full Recall",
+    "region": "ConflictI",
+    "requires": "|Lucifer Future|"
+  },
+  {
+    "name": "LunarOrbit Past Easy Clear",
+    "region": "ConflictIII",
+    "requires": "|mirai_conflict| and (|LunarOrbit -believe in the Espebranch road-| and |Illegal Paradise|)"
+  },
+  {
+    "name": "LunarOrbit Past Normal Clear",
+    "region": "ConflictIII",
+    "requires": "|mirai_conflict| and (|LunarOrbit -believe in the Espebranch road-| and |Illegal Paradise|)"
+  },
+  {
+    "name": "LunarOrbit Past Full Recall",
+    "region": "ConflictIII",
+    "requires": "|mirai_conflict| and (|LunarOrbit -believe in the Espebranch road-| and |Illegal Paradise|)"
+  },
+  {
+    "name": "LunarOrbit Past Pure Memory",
+    "region": "ConflictIII",
+    "requires": "|mirai_conflict| and (|LunarOrbit -believe in the Espebranch road-| and |Illegal Paradise|)"
+  },
+  {
+    "name": "LunarOrbit Present Easy Clear",
+    "region": "ConflictIII",
+    "requires": "|mirai_conflict| and ((|LunarOrbit -believe in the Espebranch road-| and |LunarOrbit Present|) and (|Illegal Paradise|))"
+  },
+  {
+    "name": "LunarOrbit Present Normal Clear",
+    "region": "ConflictIII",
+    "requires": "|mirai_conflict| and ((|LunarOrbit -believe in the Espebranch road-| and |LunarOrbit Present|) and (|Illegal Paradise|))"
+  },
+  {
+    "name": "LunarOrbit Present Full Recall",
+    "region": "ConflictIII",
+    "requires": "|mirai_conflict| and ((|LunarOrbit -believe in the Espebranch road-| and |LunarOrbit Present|) and (|Illegal Paradise|))"
+  },
+  {
+    "name": "LunarOrbit Future Easy Clear",
+    "region": "ConflictIII",
+    "requires": "|mirai_conflict| and ((|LunarOrbit -believe in the Espebranch road-| and |LunarOrbit Future|) and (|Illegal Paradise|))"
+  },
+  {
+    "name": "LunarOrbit Future Normal Clear",
+    "region": "ConflictIII",
+    "requires": "|mirai_conflict| and ((|LunarOrbit -believe in the Espebranch road-| and |LunarOrbit Future|) and (|Illegal Paradise|)) and (|Tairitsu|)"
+  },
+  {
+    "name": "Nhelv Past Easy Clear",
+    "region": "ConflictIV"
+  },
+  {
+    "name": "Nhelv Past Normal Clear",
+    "region": "ConflictIV"
+  },
+  {
+    "name": "Nhelv Past Full Recall",
+    "region": "ConflictIV"
+  },
+  {
+    "name": "Nhelv Past Pure Memory",
+    "region": "ConflictIV"
+  },
+  {
+    "name": "Nhelv Present Easy Clear",
+    "region": "ConflictIV",
+    "requires": "|Nhelv Present|"
+  },
+  {
+    "name": "Nhelv Present Normal Clear",
+    "region": "ConflictIV",
+    "requires": "|Nhelv Present|"
+  },
+  {
+    "name": "Nhelv Present Full Recall",
+    "region": "ConflictIV",
+    "requires": "|Nhelv Present|"
+  },
+  {
+    "name": "Nhelv Future Easy Clear",
+    "region": "ConflictIV",
+    "requires": "|Nhelv Future|"
+  },
+  {
+    "name": "Nhelv Future Normal Clear",
+    "region": "ConflictIV",
+    "requires": "|Tairitsu| and |Nhelv Future|"
+  },
+  {
+    "name": "NULCTRL Past Easy Clear",
+    "region": "ExtraIII",
+    "requires": "|prelude_conflict| and |NULCTRL|"
+  },
+  {
+    "name": "NULCTRL Past Normal Clear",
+    "region": "ExtraIII",
+    "requires": "|prelude_conflict| and |NULCTRL|"
+  },
+  {
+    "name": "NULCTRL Past Full Recall",
+    "region": "ExtraIII",
+    "requires": "|prelude_conflict| and |NULCTRL|"
+  },
+  {
+    "name": "NULCTRL Past Pure Memory",
+    "region": "ExtraIII",
+    "requires": "|prelude_conflict| and |NULCTRL|"
+  },
+  {
+    "name": "NULCTRL Present Easy Clear",
+    "region": "ExtraIII",
+    "requires": "|prelude_conflict| and (|NULCTRL| and (|NULCTRL Present| and |Ävril Present|))"
+  },
+  {
+    "name": "NULCTRL Present Normal Clear",
+    "region": "ExtraIII",
+    "requires": "|prelude_conflict| and (|NULCTRL| and (|NULCTRL Present| and |Ävril Present|))"
+  },
+  {
+    "name": "NULCTRL Present Full Recall",
+    "region": "ExtraIII",
+    "requires": "|prelude_conflict| and (|NULCTRL| and (|NULCTRL Present| and |Ävril Present|))"
+  },
+  {
+    "name": "NULCTRL Future Easy Clear",
+    "region": "ExtraIII",
+    "requires": "|prelude_conflict| and (|NULCTRL| and (|NULCTRL Future| and |Ävril Future|))"
+  },
+  {
+    "name": "NULCTRL Future Normal Clear",
+    "region": "ExtraIII",
+    "requires": "|prelude_conflict| and (|NULCTRL| and (|NULCTRL Future| and |Ävril Future|)) and (|Tairitsu|)"
+  },
+  {
+    "name": "Oblivia Past Easy Clear",
+    "region": "MusicPlay",
+    "requires": "|mirai_light|"
+  },
+  {
+    "name": "Oblivia Past Normal Clear",
+    "region": "MusicPlay",
+    "requires": "|mirai_light|"
+  },
+  {
+    "name": "Oblivia Past Full Recall",
+    "region": "MusicPlay",
+    "requires": "|mirai_light|"
+  },
+  {
+    "name": "Oblivia Past Pure Memory",
+    "region": "MusicPlay",
+    "requires": "|mirai_light|"
+  },
+  {
+    "name": "Oblivia Present Easy Clear",
+    "region": "MusicPlay",
+    "requires": "|mirai_light| and |Oblivia Present|"
+  },
+  {
+    "name": "Oblivia Present Normal Clear",
+    "region": "MusicPlay",
+    "requires": "|mirai_light| and |Oblivia Present|"
+  },
+  {
+    "name": "Oblivia Present Full Recall",
+    "region": "MusicPlay",
+    "requires": "|mirai_light| and |Oblivia Present|"
+  },
+  {
+    "name": "Oblivia Future Easy Clear",
+    "region": "SweptUpInAHeartbeat",
+    "requires": "(|mirai_light| and |shiawase|) and ((|Oblivia Future|) and (|Clotho and the stargazer Future| and |Brand new world Future|))"
+  },
+  {
+    "name": "Oblivia Future Normal Clear",
+    "region": "SweptUpInAHeartbeat",
+    "requires": "(|mirai_light| and |shiawase|) and ((|Oblivia Future|) and (|Clotho and the stargazer Future| and |Brand new world Future|))"
+  },
+  {
+    "name": "Oblivia Future Full Recall",
+    "region": "SweptUpInAHeartbeat",
+    "requires": "(|mirai_light| and |shiawase|) and ((|Oblivia Future|) and (|Clotho and the stargazer Future| and |Brand new world Future|))"
+  },
+  {
+    "name": "Oblivia Beyond Easy Clear",
+    "region": "Beyond",
+    "requires": "(|Lost World| and |mirai_light|) and (|Oblivia Beyond| and |Oblivia Future|)"
+  },
+  {
+    "name": "Oblivia Beyond Normal Clear",
+    "region": "Beyond",
+    "requires": "((|Lost World| and |mirai_light|) and (|Oblivia Beyond| and |Oblivia Future|)) and (|Tairitsu|)"
+  },
+  {
+    "name": "Remind the Souls Past Easy Clear",
+    "region": "MusicPlay",
+    "requires": "|hime_light|"
+  },
+  {
+    "name": "Remind the Souls Past Normal Clear",
+    "region": "MusicPlay",
+    "requires": "|hime_light|"
+  },
+  {
+    "name": "Remind the Souls Past Full Recall",
+    "region": "MusicPlay",
+    "requires": "|hime_light|"
+  },
+  {
+    "name": "Remind the Souls Past Pure Memory",
+    "region": "MusicPlay",
+    "requires": "|hime_light|"
+  },
+  {
+    "name": "Remind the Souls Present Easy Clear",
+    "region": "MusicPlay",
+    "requires": "|hime_light| and |Remind the Souls Present|"
+  },
+  {
+    "name": "Remind the Souls Present Normal Clear",
+    "region": "MusicPlay",
+    "requires": "|hime_light| and |Remind the Souls Present|"
+  },
+  {
+    "name": "Remind the Souls Present Full Recall",
+    "region": "MusicPlay",
+    "requires": "|hime_light| and |Remind the Souls Present|"
+  },
+  {
+    "name": "Remind the Souls Future Easy Clear",
+    "region": "MusicPlay",
+    "requires": "|hime_light| and |Remind the Souls Future|"
+  },
+  {
+    "name": "Remind the Souls Future Normal Clear",
+    "region": "MusicPlay",
+    "requires": "|hime_light| and (|Remind the Souls Future|) and (|Tairitsu|)"
+  },
+  {
+    "name": "ReviXy Past Easy Clear",
+    "region": "ConflictV"
+  },
+  {
+    "name": "ReviXy Past Normal Clear",
+    "region": "ConflictV"
+  },
+  {
+    "name": "ReviXy Past Full Recall",
+    "region": "ConflictV"
+  },
+  {
+    "name": "ReviXy Past Pure Memory",
+    "region": "ConflictV"
+  },
+  {
+    "name": "ReviXy Present Easy Clear",
+    "region": "ConflictV",
+    "requires": "|ReviXy Present|"
+  },
+  {
+    "name": "ReviXy Present Normal Clear",
+    "region": "ConflictV",
+    "requires": "|ReviXy Present|"
+  },
+  {
+    "name": "ReviXy Present Full Recall",
+    "region": "ConflictV",
+    "requires": "|ReviXy Present|"
+  },
+  {
+    "name": "ReviXy Future Easy Clear",
+    "region": "ConflictV",
+    "requires": "|ReviXy Future|"
+  },
+  {
+    "name": "ReviXy Future Normal Clear",
+    "region": "ConflictV",
+    "requires": "|ReviXy Future| and |Tairitsu|"
+  },
+  {
+    "name": "Rugie Past Easy Clear",
+    "region": "LightIII",
+    "requires": "|base_conflict| and |Rugie|"
+  },
+  {
+    "name": "Rugie Past Normal Clear",
+    "region": "LightIII",
+    "requires": "|base_conflict| and |Rugie|"
+  },
+  {
+    "name": "Rugie Past Full Recall",
+    "region": "LightIII",
+    "requires": "|base_conflict| and |Rugie|"
+  },
+  {
+    "name": "Rugie Past Pure Memory",
+    "region": "LightIII",
+    "requires": "|base_conflict| and |Rugie|"
+  },
+  {
+    "name": "Rugie Present Easy Clear",
+    "region": "LightIII",
+    "requires": "|base_conflict| and (|Rugie|) and (|Rugie Present| and |Suomi Present|)"
+  },
+  {
+    "name": "Rugie Present Normal Clear",
+    "region": "LightIII",
+    "requires": "|base_conflict| and (|Rugie|) and (|Rugie Present| and |Suomi Present|)"
+  },
+  {
+    "name": "Rugie Present Full Recall",
+    "region": "LightIII",
+    "requires": "|base_conflict| and (|Rugie|) and (|Rugie Present| and |Suomi Present|)"
+  },
+  {
+    "name": "Rugie Future Easy Clear",
+    "region": "LightIII",
+    "requires": "|base_conflict| and (|Rugie|) and (|Rugie Future| and |Suomi Future|)"
+  },
+  {
+    "name": "Rugie Future Normal Clear",
+    "region": "LightIII",
+    "requires": "|base_conflict| and (|Rugie|) and ((|Rugie Future| and |Suomi Future|) and (|Tairitsu|))"
+  },
+  {
+    "name": "Sakura Fubuki Past Easy Clear",
+    "region": "MusicPlay",
+    "requires": "|hime_light|"
+  },
+  {
+    "name": "Sakura Fubuki Past Normal Clear",
+    "region": "MusicPlay",
+    "requires": "|hime_light|"
+  },
+  {
+    "name": "Sakura Fubuki Past Full Recall",
+    "region": "MusicPlay",
+    "requires": "|hime_light|"
+  },
+  {
+    "name": "Sakura Fubuki Past Pure Memory",
+    "region": "MusicPlay",
+    "requires": "|hime_light|"
+  },
+  {
+    "name": "Sakura Fubuki Present Easy Clear",
+    "region": "FirstStepInANewWorld",
+    "requires": "|hime_light| and (|Sakura Fubuki Present| and (|Snow White Present| and |Rise Present|))"
+  },
+  {
+    "name": "Sakura Fubuki Present Normal Clear",
+    "region": "FirstStepInANewWorld",
+    "requires": "|hime_light| and (|Sakura Fubuki Present| and (|Snow White Present| and |Rise Present|))"
+  },
+  {
+    "name": "Sakura Fubuki Present Full Recall",
+    "region": "FirstStepInANewWorld",
+    "requires": "|hime_light| and (|Sakura Fubuki Present| and (|Snow White Present| and |Rise Present|))"
+  },
+  {
+    "name": "Sakura Fubuki Future Easy Clear",
+    "region": "MusicPlay",
+    "requires": "|hime_light| and |Sakura Fubuki Future|"
+  },
+  {
+    "name": "Sakura Fubuki Future Normal Clear",
+    "region": "MusicPlay",
+    "requires": "|hime_light| and (|Sakura Fubuki Future|) and (|Tairitsu|)"
+  },
+  {
+    "name": "san skia Past Easy Clear",
+    "region": "ExtraIV"
+  },
+  {
+    "name": "san skia Past Normal Clear",
+    "region": "ExtraIV"
+  },
+  {
+    "name": "san skia Past Full Recall",
+    "region": "ExtraIV"
+  },
+  {
+    "name": "san skia Past Pure Memory",
+    "region": "ExtraIV"
+  },
+  {
+    "name": "san skia Present Easy Clear",
+    "region": "ExtraIV",
+    "requires": "|DDD Present| and |san skia Present|"
+  },
+  {
+    "name": "san skia Present Normal Clear",
+    "region": "ExtraIV",
+    "requires": "|DDD Present| and |san skia Present|"
+  },
+  {
+    "name": "san skia Present Full Recall",
+    "region": "ExtraIV",
+    "requires": "|DDD Present| and |san skia Present|"
+  },
+  {
+    "name": "san skia Future Easy Clear",
+    "region": "ExtraIV",
+    "requires": "|DDD Future| and |san skia Future|"
+  },
+  {
+    "name": "san skia Future Normal Clear",
+    "region": "ExtraIV",
+    "requires": "|DDD Future| and |san skia Future|"
+  },
+  {
+    "name": "san skia Future Full Recall",
+    "region": "ExtraIV",
+    "requires": "|DDD Future| and |san skia Future|"
+  },
+  {
+    "name": "SATISFACTION Past Easy Clear",
+    "region": "MusicPlay",
+    "requires": "|vs_conflict|"
+  },
+  {
+    "name": "SATISFACTION Past Normal Clear",
+    "region": "MusicPlay",
+    "requires": "|vs_conflict|"
+  },
+  {
+    "name": "SATISFACTION Past Full Recall",
+    "region": "MusicPlay",
+    "requires": "|vs_conflict|"
+  },
+  {
+    "name": "SATISFACTION Past Pure Memory",
+    "region": "MusicPlay",
+    "requires": "|vs_conflict|"
+  },
+  {
+    "name": "SATISFACTION Present Easy Clear",
+    "region": "MusicPlay",
+    "requires": "|vs_conflict| and |SATISFACTION Present|"
+  },
+  {
+    "name": "SATISFACTION Present Normal Clear",
+    "region": "MusicPlay",
+    "requires": "|vs_conflict| and |SATISFACTION Present|"
+  },
+  {
+    "name": "SATISFACTION Present Full Recall",
+    "region": "MusicPlay",
+    "requires": "|vs_conflict| and |SATISFACTION Present|"
+  },
+  {
+    "name": "SATISFACTION Future Easy Clear",
+    "region": "MusicPlay",
+    "requires": "|vs_conflict| and |SATISFACTION Future|"
+  },
+  {
+    "name": "SATISFACTION Future Normal Clear",
+    "region": "MusicPlay",
+    "requires": "|vs_conflict| and |SATISFACTION Future|"
+  },
+  {
+    "name": "SATISFACTION Future Full Recall",
+    "region": "MusicPlay",
+    "requires": "|vs_conflict| and |SATISFACTION Future|"
+  },
+  {
+    "name": "SATISFACTION Eternal Easy Clear",
+    "region": "MusicPlay",
+    "requires": "|vs_conflict| and |SATISFACTION Eternal|"
+  },
+  {
+    "name": "SATISFACTION Eternal Normal Clear",
+    "region": "MusicPlay",
+    "requires": "(|vs_conflict| and |SATISFACTION Eternal|) and (|Tairitsu|)"
+  },
+  {
+    "name": "Senkyou Past Easy Clear",
+    "region": "MusicPlay",
+    "requires": "|omatsuri_light|"
+  },
+  {
+    "name": "Senkyou Past Normal Clear",
+    "region": "MusicPlay",
+    "requires": "|omatsuri_light|"
+  },
+  {
+    "name": "Senkyou Past Full Recall",
+    "region": "MusicPlay",
+    "requires": "|omatsuri_light|"
+  },
+  {
+    "name": "Senkyou Past Pure Memory",
+    "region": "MusicPlay",
+    "requires": "|omatsuri_light|"
+  },
+  {
+    "name": "Senkyou Present Easy Clear",
+    "region": "MusicPlay",
+    "requires": "|omatsuri_light| and |Senkyou Present|"
+  },
+  {
+    "name": "Senkyou Present Normal Clear",
+    "region": "MusicPlay",
+    "requires": "|omatsuri_light| and |Senkyou Present|"
+  },
+  {
+    "name": "Senkyou Present Full Recall",
+    "region": "MusicPlay",
+    "requires": "|omatsuri_light| and |Senkyou Present|"
+  },
+  {
+    "name": "Senkyou Future Easy Clear",
+    "region": "MusicPlay",
+    "requires": "|omatsuri_light| and |Senkyou Future|"
+  },
+  {
+    "name": "Senkyou Future Normal Clear",
+    "region": "MusicPlay",
+    "requires": "|omatsuri_light| and |Senkyou Future|"
+  },
+  {
+    "name": "Senkyou Future Full Recall",
+    "region": "MusicPlay",
+    "requires": "|omatsuri_light| and |Senkyou Future|"
+  },
+  {
+    "name": "Shades of Light in a Transcendent Realm Past Easy Clear",
+    "region": "StoryMode",
+    "requires": "|rei|"
+  },
+  {
+    "name": "Shades of Light in a Transcendent Realm Past Normal Clear",
+    "region": "StoryMode",
+    "requires": "|rei|"
+  },
+  {
+    "name": "Shades of Light in a Transcendent Realm Past Full Recall",
+    "region": "StoryMode",
+    "requires": "|rei|"
+  },
+  {
+    "name": "Shades of Light in a Transcendent Realm Past Pure Memory",
+    "region": "StoryMode",
+    "requires": "|rei|"
+  },
+  {
+    "name": "Shades of Light in a Transcendent Realm Present Easy Clear",
+    "region": "StoryMode",
+    "requires": "|rei| and (|Shades of Light in a Transcendent Realm Present| and ((|inkar-usi Present| and (|Course Mode| and |First Step in a New World|)) and |Grimheart Present|))"
+  },
+  {
+    "name": "Shades of Light in a Transcendent Realm Present Normal Clear",
+    "region": "StoryMode",
+    "requires": "|rei| and (|Shades of Light in a Transcendent Realm Present| and ((|inkar-usi Present| and (|Course Mode| and |First Step in a New World|)) and |Grimheart Present|))"
+  },
+  {
+    "name": "Shades of Light in a Transcendent Realm Present Full Recall",
+    "region": "StoryMode",
+    "requires": "|rei| and (|Shades of Light in a Transcendent Realm Present| and ((|inkar-usi Present| and (|Course Mode| and |First Step in a New World|)) and |Grimheart Present|))"
+  },
+  {
+    "name": "Shades of Light in a Transcendent Realm Future Easy Clear",
+    "region": "StoryMode",
+    "requires": "(|rei| and (|shiawase| and |nijuusei-light-b|)) and (|Shades of Light in a Transcendent Realm Future| and ((|inkar-usi Future| and (((|World Mode| and (|Lost World| and |Spire of Convergence|)) and |Course Mode|) and (|Unceasing Spirit| and |Progressive Light:3|))) and (((|Babaroque| and |Harutopia ~Utopia of Spring~|) and (|Suomi| and |Suomi Future|)) and (|Grimheart Future|))))"
+  },
+  {
+    "name": "Shades of Light in a Transcendent Realm Future Normal Clear",
+    "region": "StoryMode",
+    "requires": "(|rei| and (|shiawase| and |nijuusei-light-b|)) and (|Shades of Light in a Transcendent Realm Future| and ((|inkar-usi Future| and (((|World Mode| and (|Lost World| and |Spire of Convergence|)) and |Course Mode|) and (|Unceasing Spirit| and |Progressive Light:3|))) and (((|Babaroque| and |Harutopia ~Utopia of Spring~|) and (|Suomi| and |Suomi Future|)) and (|Grimheart Future|))))"
+  },
+  {
+    "name": "Shades of Light in a Transcendent Realm Future Full Recall",
+    "region": "StoryMode",
+    "requires": "(|rei| and (|shiawase| and |nijuusei-light-b|)) and (|Shades of Light in a Transcendent Realm Future| and ((|inkar-usi Future| and (((|World Mode| and (|Lost World| and |Spire of Convergence|)) and |Course Mode|) and (|Unceasing Spirit| and |Progressive Light:3|))) and (((|Babaroque| and |Harutopia ~Utopia of Spring~|) and (|Suomi| and |Suomi Future|)) and (|Grimheart Future|))))"
+  },
+  {
+    "name": "Shades of Light in a Transcendent Realm Beyond Easy Clear",
+    "region": "Beyond",
+    "requires": "|Story Mode| and |Shades of Light in a Transcendent Realm Beyond|"
+  },
+  {
+    "name": "Shades of Light in a Transcendent Realm Beyond Normal Clear",
+    "region": "Beyond",
+    "requires": "(|Story Mode| and |Shades of Light in a Transcendent Realm Beyond|) and (|Tairitsu|)"
+  },
+  {
+    "name": "SUPERNOVA Past Easy Clear",
+    "region": "ConflictV",
+    "requires": "|nijuusei-conflict-b| and |SUPERNOVA|"
+  },
+  {
+    "name": "SUPERNOVA Past Normal Clear",
+    "region": "ConflictV",
+    "requires": "|nijuusei-conflict-b| and |SUPERNOVA|"
+  },
+  {
+    "name": "SUPERNOVA Past Full Recall",
+    "region": "ConflictV",
+    "requires": "|nijuusei-conflict-b| and |SUPERNOVA|"
+  },
+  {
+    "name": "SUPERNOVA Past Pure Memory",
+    "region": "ConflictV",
+    "requires": "|nijuusei-conflict-b| and |SUPERNOVA|"
+  },
+  {
+    "name": "SUPERNOVA Present Easy Clear",
+    "region": "ConflictV",
+    "requires": "|nijuusei-conflict-b| and ((|SUPERNOVA|) and (|SUPERNOVA Present| and |ReviXy Present|))"
+  },
+  {
+    "name": "SUPERNOVA Present Normal Clear",
+    "region": "ConflictV",
+    "requires": "|nijuusei-conflict-b| and ((|SUPERNOVA|) and (|SUPERNOVA Present| and |ReviXy Present|))"
+  },
+  {
+    "name": "SUPERNOVA Present Full Recall",
+    "region": "ConflictV",
+    "requires": "|nijuusei-conflict-b| and ((|SUPERNOVA|) and (|SUPERNOVA Present| and |ReviXy Present|))"
+  },
+  {
+    "name": "SUPERNOVA Future Easy Clear",
+    "region": "ConflictV",
+    "requires": "|nijuusei-conflict-b| and ((|SUPERNOVA|) and (|SUPERNOVA Future| and |ReviXy Future|))"
+  },
+  {
+    "name": "SUPERNOVA Future Normal Clear",
+    "region": "ConflictV",
+    "requires": "|nijuusei-conflict-b| and (((|SUPERNOVA|) and (|SUPERNOVA Future| and |ReviXy Future|)) and (|Tairitsu|))"
+  },
+  {
+    "name": "Syro Past Easy Clear",
+    "region": "OuterReaches"
+  },
+  {
+    "name": "Syro Past Normal Clear",
+    "region": "OuterReaches"
+  },
+  {
+    "name": "Syro Past Full Recall",
+    "region": "OuterReaches"
+  },
+  {
+    "name": "Syro Past Pure Memory",
+    "region": "OuterReaches"
+  },
+  {
+    "name": "Syro Present Easy Clear",
+    "region": "OuterReaches",
+    "requires": "|Syro Present|"
+  },
+  {
+    "name": "Syro Present Normal Clear",
+    "region": "OuterReaches",
+    "requires": "|Syro Present|"
+  },
+  {
+    "name": "Syro Present Full Recall",
+    "region": "OuterReaches",
+    "requires": "|Syro Present|"
+  },
+  {
+    "name": "Syro Future Easy Clear",
+    "region": "OuterReaches",
+    "requires": "|Syro Future|"
+  },
+  {
+    "name": "Syro Future Normal Clear",
+    "region": "OuterReaches",
+    "requires": "|Syro Future| and |Tairitsu|"
+  },
+  {
+    "name": "The Formula Past Easy Clear",
+    "region": "MusicPlay",
+    "requires": "|nijuusei2_light|"
+  },
+  {
+    "name": "The Formula Past Normal Clear",
+    "region": "MusicPlay",
+    "requires": "|nijuusei2_light|"
+  },
+  {
+    "name": "The Formula Past Full Recall",
+    "region": "MusicPlay",
+    "requires": "|nijuusei2_light|"
+  },
+  {
+    "name": "The Formula Past Pure Memory",
+    "region": "MusicPlay",
+    "requires": "|nijuusei2_light|"
+  },
+  {
+    "name": "The Formula Present Easy Clear",
+    "region": "MusicPlay",
+    "requires": "|nijuusei2_light| and |The Formula Present|"
+  },
+  {
+    "name": "The Formula Present Normal Clear",
+    "region": "MusicPlay",
+    "requires": "|nijuusei2_light| and |The Formula Present|"
+  },
+  {
+    "name": "The Formula Present Full Recall",
+    "region": "MusicPlay",
+    "requires": "|nijuusei2_light| and |The Formula Present|"
+  },
+  {
+    "name": "The Formula Future Easy Clear",
+    "region": "MusicPlay",
+    "requires": "|nijuusei2_light| and |The Formula Future|"
+  },
+  {
+    "name": "The Formula Future Normal Clear",
+    "region": "MusicPlay",
+    "requires": "|nijuusei2_light| and (|The Formula Future|) and (|Tairitsu|)"
+  },
+  {
+    "name": "VECTOЯ Past Easy Clear",
+    "region": "LightIV"
+  },
+  {
+    "name": "VECTOЯ Past Normal Clear",
+    "region": "LightIV"
+  },
+  {
+    "name": "VECTOЯ Past Full Recall",
+    "region": "LightIV"
+  },
+  {
+    "name": "VECTOЯ Past Pure Memory",
+    "region": "LightIV"
+  },
+  {
+    "name": "VECTOЯ Present Easy Clear",
+    "region": "LightIV",
+    "requires": "|rei| and ((|VECTOЯ Present|) and ((|Grimheart Present|) and ((|inkar-usi Present| and |First Step in a New World|) and (|Story Mode| and |Course Mode|))))"
+  },
+  {
+    "name": "VECTOЯ Present Normal Clear",
+    "region": "LightIV",
+    "requires": "|rei| and ((|VECTOЯ Present|) and ((|Grimheart Present|) and ((|inkar-usi Present| and |First Step in a New World|) and (|Story Mode| and |Course Mode|))))"
+  },
+  {
+    "name": "VECTOЯ Present Full Recall",
+    "region": "LightIV",
+    "requires": "|rei| and ((|VECTOЯ Present|) and ((|Grimheart Present|) and ((|inkar-usi Present| and |First Step in a New World|) and (|Story Mode| and |Course Mode|))))"
+  },
+  {
+    "name": "VECTOЯ Future Easy Clear",
+    "region": "LightIV",
+    "requires": "|rei| and ((|VECTOЯ Future|) and ((|Grimheart Future| and |Suomi Future|) and ((|inkar-usi Future| and |Unceasing Spirit|) and (|Story Mode| and |Course Mode|))))"
+  },
+  {
+    "name": "VECTOЯ Future Normal Clear",
+    "region": "LightIV",
+    "requires": "|rei| and (((|VECTOЯ Future|) and ((|Grimheart Future| and |Suomi Future|) and ((|inkar-usi Future| and |Unceasing Spirit|) and (|Story Mode| and |Course Mode|)))) and (|Tairitsu|))"
+  },
+  {
+    "name": "world.execute(me); Past Easy Clear",
+    "region": "MusicPlay",
+    "requires": "|prelude_light|"
+  },
+  {
+    "name": "world.execute(me); Past Normal Clear",
+    "region": "MusicPlay",
+    "requires": "|prelude_light|"
+  },
+  {
+    "name": "world.execute(me); Past Full Recall",
+    "region": "MusicPlay",
+    "requires": "|prelude_light|"
+  },
+  {
+    "name": "world.execute(me); Past Pure Memory",
+    "region": "MusicPlay",
+    "requires": "|prelude_light|"
+  },
+  {
+    "name": "world.execute(me); Present Easy Clear",
+    "region": "MusicPlay",
+    "requires": "|prelude_light| and |world.execute(me); Present|"
+  },
+  {
+    "name": "world.execute(me); Present Normal Clear",
+    "region": "MusicPlay",
+    "requires": "|prelude_light| and |world.execute(me); Present|"
+  },
+  {
+    "name": "world.execute(me); Present Full Recall",
+    "region": "MusicPlay",
+    "requires": "|prelude_light| and |world.execute(me); Present|"
+  },
+  {
+    "name": "world.execute(me); Future Easy Clear",
+    "region": "MusicPlay",
+    "requires": "|prelude_light| and |world.execute(me); Future|"
+  },
+  {
+    "name": "world.execute(me); Future Normal Clear",
+    "region": "MusicPlay",
+    "requires": "|prelude_light| and |world.execute(me); Future|"
+  },
+  {
+    "name": "world.execute(me); Future Full Recall",
+    "region": "MusicPlay",
+    "requires": "|prelude_light| and |world.execute(me); Future|"
+  },
+  {
+    "name": "Ävril Past Easy Clear",
+    "region": "ExtraIII"
+  },
+  {
+    "name": "Ävril Past Normal Clear",
+    "region": "ExtraIII"
+  },
+  {
+    "name": "Ävril Past Full Recall",
+    "region": "ExtraIII"
+  },
+  {
+    "name": "Ävril Past Pure Memory",
+    "region": "ExtraIII"
+  },
+  {
+    "name": "Ävril Present Easy Clear",
+    "region": "ExtraIII",
+    "requires": "|Ävril Present|"
+  },
+  {
+    "name": "Ävril Present Normal Clear",
+    "region": "ExtraIII",
+    "requires": "|Ävril Present|"
+  },
+  {
+    "name": "Ävril Present Full Recall",
+    "region": "ExtraIII",
+    "requires": "|Ävril Present|"
+  },
+  {
+    "name": "Ävril Future Easy Clear",
+    "region": "UnceasingSpirit",
+    "requires": "(|Story Mode| and ((|inkar-usi Future|) and (|Grimheart Future| and |rei|))) and ((((|Progressive Conflict:3|) and ((|Lucifer| and |Rabbit In The Black Room|) and (|base_conflict|))) and ((|Bookmaker| and |yugamu|) and (|Bookmaker Future|))) and ((((|Outer Reaches| and |Progressive Extra:2|) and (|Dormant Echoes| and |Forgotten Construct|)) and ((|Syro| and |mirai_light|) and (|Diode|))) and ((|Ävril -Flicka i krans-| and |alice_light|) and (|Ävril Future|))))"
+  },
+  {
+    "name": "Ävril Future Normal Clear",
+    "region": "UnceasingSpirit",
+    "requires": "(|Story Mode| and ((|inkar-usi Future|) and (|Grimheart Future| and |rei|))) and ((((|Progressive Conflict:3|) and ((|Lucifer| and |Rabbit In The Black Room|) and (|base_conflict|))) and ((|Bookmaker| and |yugamu|) and (|Bookmaker Future|))) and ((((|Outer Reaches| and |Progressive Extra:2|) and (|Dormant Echoes| and |Forgotten Construct|)) and ((|Syro| and |mirai_light|) and (|Diode|))) and ((|Ävril -Flicka i krans-| and |alice_light|) and (|Ävril Future|))))"
+  },
+  {
+    "name": "Ävril Future Full Recall",
+    "region": "UnceasingSpirit",
+    "requires": "(|Story Mode| and ((|inkar-usi Future|) and (|Grimheart Future| and |rei|))) and ((((|Progressive Conflict:3|) and ((|Lucifer| and |Rabbit In The Black Room|) and (|base_conflict|))) and ((|Bookmaker| and |yugamu|) and (|Bookmaker Future|))) and ((((|Outer Reaches| and |Progressive Extra:2|) and (|Dormant Echoes| and |Forgotten Construct|)) and ((|Syro| and |mirai_light|) and (|Diode|))) and ((|Ävril -Flicka i krans-| and |alice_light|) and (|Ävril Future|))))"
+  },
+  {
+    "name": "Blaster Past Easy Clear",
+    "region": "OuterReaches",
+    "requires": "|Blaster| and (|base_conflict| and |yugamu|)"
+  },
+  {
+    "name": "Blaster Past Normal Clear",
+    "region": "OuterReaches",
+    "requires": "|Blaster| and (|base_conflict| and |yugamu|)"
+  },
+  {
+    "name": "Blaster Past Full Recall",
+    "region": "OuterReaches",
+    "requires": "|Blaster| and (|base_conflict| and |yugamu|)"
+  },
+  {
+    "name": "Blaster Past Pure Memory",
+    "region": "OuterReaches",
+    "requires": "|Blaster| and (|base_conflict| and |yugamu|)"
+  },
+  {
+    "name": "Blaster Present Easy Clear",
+    "region": "OuterReaches",
+    "requires": "((|Blaster|) and (|Blaster Present| and |Syro Present|)) and (|base_conflict| and |yugamu|)"
+  },
+  {
+    "name": "Blaster Present Normal Clear",
+    "region": "OuterReaches",
+    "requires": "((|Blaster|) and (|Blaster Present| and |Syro Present|)) and (|base_conflict| and |yugamu|)"
+  },
+  {
+    "name": "Blaster Present Full Recall",
+    "region": "OuterReaches",
+    "requires": "((|Blaster|) and (|Blaster Present| and |Syro Present|)) and (|base_conflict| and |yugamu|)"
+  },
+  {
+    "name": "Blaster Future Easy Clear",
+    "region": "OuterReaches",
+    "requires": "((|Blaster|) and (|Blaster Future| and |Syro Future|)) and (|base_conflict| and |yugamu|)"
+  },
+  {
+    "name": "Blaster Future Normal Clear",
+    "region": "OuterReaches",
+    "requires": "(((|Blaster|) and (|Blaster Future| and |Syro Future|)) and (|base_conflict| and |yugamu|)) and (|Tairitsu|)"
+  },
+  {
+    "name": "Bookmaker Past Easy Clear",
+    "region": "ConflictIII"
+  },
+  {
+    "name": "Bookmaker Past Normal Clear",
+    "region": "ConflictIII"
+  },
+  {
+    "name": "Bookmaker Past Full Recall",
+    "region": "ConflictIII"
+  },
+  {
+    "name": "Bookmaker Past Pure Memory",
+    "region": "ConflictIII"
+  },
+  {
+    "name": "Bookmaker Present Easy Clear",
+    "region": "ConflictIII",
+    "requires": "|Bookmaker Present|"
+  },
+  {
+    "name": "Bookmaker Present Normal Clear",
+    "region": "ConflictIII",
+    "requires": "|Bookmaker Present|"
+  },
+  {
+    "name": "Bookmaker Present Full Recall",
+    "region": "ConflictIII",
+    "requires": "|Bookmaker Present|"
+  },
+  {
+    "name": "Bookmaker Future Easy Clear",
+    "region": "UnceasingSpirit",
+    "requires": "(|Story Mode| and ((|inkar-usi Future|) and (|Grimheart Future| and |rei|))) and ((((|Progressive Conflict:3|) and ((|Lucifer| and |Rabbit In The Black Room|) and (|base_conflict|))) and ((|Bookmaker| and |yugamu|) and (|Bookmaker Future|))))"
+  },
+  {
+    "name": "Bookmaker Future Normal Clear",
+    "region": "UnceasingSpirit",
+    "requires": "(|Story Mode| and ((|inkar-usi Future|) and (|Grimheart Future| and |rei|))) and ((((|Progressive Conflict:3|) and ((|Lucifer| and |Rabbit In The Black Room|) and (|base_conflict|))) and ((|Bookmaker| and |yugamu|) and (|Bookmaker Future|))))"
+  },
+  {
+    "name": "Bookmaker Future Full Recall",
+    "region": "UnceasingSpirit",
+    "requires": "(|Story Mode| and ((|inkar-usi Future|) and (|Grimheart Future| and |rei|))) and ((((|Progressive Conflict:3|) and ((|Lucifer| and |Rabbit In The Black Room|) and (|base_conflict|))) and ((|Bookmaker| and |yugamu|) and (|Bookmaker Future|))))"
+  },
+  {
+    "name": "Bookmaker Beyond Easy Clear",
+    "region": "Beyond",
+    "requires": "((((|Story Mode| and |Progressive Light:3|) and (|Course Mode| and |Unceasing Spirit|)) and (|Lost World| and |Spire of Convergence|)) and (((|base_light| and |shiawase|) and (|Babaroque| and |Harutopia ~Utopia of Spring~|)) and ((|nijuusei-light-b|) and (|Suomi| and |Suomi Future|)))) and (((|inkar-usi Future|) and (|Grimheart Future| and |rei|))) and ((((|Progressive Conflict:3|) and ((|Lucifer| and |Rabbit In The Black Room|) and (|base_conflict|))) and ((|Bookmaker| and |yugamu|) and (|Bookmaker Future| and |Bookmaker Beyond|))))"
+  },
+  {
+    "name": "Bookmaker Beyond Normal Clear",
+    "region": "Beyond",
+    "requires": "(((((|Story Mode| and |Progressive Light:3|) and (|Course Mode| and |Unceasing Spirit|)) and (|Lost World| and |Spire of Convergence|)) and (((|base_light| and |shiawase|) and (|Babaroque| and |Harutopia ~Utopia of Spring~|)) and ((|nijuusei-light-b|) and (|Suomi| and |Suomi Future|)))) and (((|inkar-usi Future|) and (|Grimheart Future| and |rei|))) and ((((|Progressive Conflict:3|) and ((|Lucifer| and |Rabbit In The Black Room|) and (|base_conflict|))) and ((|Bookmaker| and |yugamu|) and (|Bookmaker Future| and |Bookmaker Beyond|))))) and (|Tairitsu|)",
+    "place_item": [
+      "Goal"
+    ]
+  },
+  {
+    "name": "Cybernecia Catharsis Past Easy Clear",
+    "region": "OuterReaches",
+    "requires": "(|Blaster| and |Cybernecia Catharsis|) and (|base_conflict| and |yugamu|)"
+  },
+  {
+    "name": "Cybernecia Catharsis Past Normal Clear",
+    "region": "OuterReaches",
+    "requires": "(|Blaster| and |Cybernecia Catharsis|) and (|base_conflict| and |yugamu|)"
+  },
+  {
+    "name": "Cybernecia Catharsis Past Full Recall",
+    "region": "OuterReaches",
+    "requires": "(|Blaster| and |Cybernecia Catharsis|) and (|base_conflict| and |yugamu|)"
+  },
+  {
+    "name": "Cybernecia Catharsis Past Pure Memory",
+    "region": "OuterReaches",
+    "requires": "(|Blaster| and |Cybernecia Catharsis|) and (|base_conflict| and |yugamu|)"
+  },
+  {
+    "name": "Cybernecia Catharsis Present Easy Clear",
+    "region": "OuterReaches",
+    "requires": "(|Blaster| and (|Cybernecia Catharsis| and |Cybernecia Catharsis Present|)) and (|base_conflict| and |yugamu|)"
+  },
+  {
+    "name": "Cybernecia Catharsis Present Normal Clear",
+    "region": "OuterReaches",
+    "requires": "(|Blaster| and (|Cybernecia Catharsis| and |Cybernecia Catharsis Present|)) and (|base_conflict| and |yugamu|)"
+  },
+  {
+    "name": "Cybernecia Catharsis Present Full Recall",
+    "region": "OuterReaches",
+    "requires": "(|Blaster| and (|Cybernecia Catharsis| and |Cybernecia Catharsis Present|)) and (|base_conflict| and |yugamu|)"
+  },
+  {
+    "name": "Cybernecia Catharsis Future Easy Clear",
+    "region": "OuterReaches",
+    "requires": "(|Blaster| and (|Cybernecia Catharsis| and |Cybernecia Catharsis Future|)) and (|base_conflict| and |yugamu|)"
+  },
+  {
+    "name": "Cybernecia Catharsis Future Normal Clear",
+    "region": "OuterReaches",
+    "requires": "|Tairitsu| and (|Blaster| and (|Cybernecia Catharsis| and |Cybernecia Catharsis Future|)) and (|base_conflict| and |yugamu|)"
+  },
+  {
+    "name": "Cybernecia Catharsis Beyond Easy Clear",
+    "region": "Beyond",
+    "requires": "((|Lost World| and |Outer Reaches|) and (|Syro| and (|mirai_light| and |base_light|))) and ((|Blaster| and (|Cybernecia Catharsis| and (|Cybernecia Catharsis Beyond| and |Cybernecia Catharsis Future|))) and (|base_conflict| and |yugamu|))"
+  },
+  {
+    "name": "Cybernecia Catharsis Beyond Normal Clear",
+    "region": "Beyond",
+    "requires": "(((|Lost World| and |Outer Reaches|) and (|Syro| and (|mirai_light| and |base_light|))) and ((|Blaster| and (|Cybernecia Catharsis| and (|Cybernecia Catharsis Beyond| and |Cybernecia Catharsis Future|))) and (|base_conflict| and |yugamu|))) and (|Tairitsu|)"
+  },
+  {
+    "name": "Dreamin' Attraction!! Past Easy Clear",
+    "region": "LightII",
+    "requires": "|GOODTEK| and |Dreamin' Attraction!!|"
+  },
+  {
+    "name": "Dreamin' Attraction!! Past Normal Clear",
+    "region": "LightII",
+    "requires": "|GOODTEK| and |Dreamin' Attraction!!|"
+  },
+  {
+    "name": "Dreamin' Attraction!! Past Full Recall",
+    "region": "LightII",
+    "requires": "|GOODTEK| and |Dreamin' Attraction!!|"
+  },
+  {
+    "name": "Dreamin' Attraction!! Past Pure Memory",
+    "region": "LightII",
+    "requires": "|GOODTEK| and |Dreamin' Attraction!!|"
+  },
+  {
+    "name": "Dreamin' Attraction!! Present Easy Clear",
+    "region": "LightII",
+    "requires": "|GOODTEK| and (|Dreamin' Attraction!!| and |Dreamin' Attraction!! Present|)"
+  },
+  {
+    "name": "Dreamin' Attraction!! Present Normal Clear",
+    "region": "LightII",
+    "requires": "|GOODTEK| and (|Dreamin' Attraction!!| and |Dreamin' Attraction!! Present|)"
+  },
+  {
+    "name": "Dreamin' Attraction!! Present Full Recall",
+    "region": "LightII",
+    "requires": "|GOODTEK| and (|Dreamin' Attraction!!| and |Dreamin' Attraction!! Present|)"
+  },
+  {
+    "name": "Dreamin' Attraction!! Future Easy Clear",
+    "region": "LightII",
+    "requires": "(|GOODTEK| and |Dreamin' Attraction!!|) and (|Dreamin' Attraction!! Future| and (|GOODTEK Future| and |Harutopia Future|))"
+  },
+  {
+    "name": "Dreamin' Attraction!! Future Normal Clear",
+    "region": "LightII",
+    "requires": "|Tairitsu| and (|GOODTEK| and |Dreamin' Attraction!!|) and (|Dreamin' Attraction!! Future| and (|GOODTEK Future| and |Harutopia Future|))"
+  },
+  {
+    "name": "FREEF4LL Past Easy Clear",
+    "region": "ExtraII",
+    "requires": "|omatsuri_conflict| and |FREEF4LL|"
+  },
+  {
+    "name": "FREEF4LL Past Normal Clear",
+    "region": "ExtraII",
+    "requires": "|omatsuri_conflict| and |FREEF4LL|"
+  },
+  {
+    "name": "FREEF4LL Past Full Recall",
+    "region": "ExtraII",
+    "requires": "|omatsuri_conflict| and |FREEF4LL|"
+  },
+  {
+    "name": "FREEF4LL Past Pure Memory",
+    "region": "ExtraII",
+    "requires": "|omatsuri_conflict| and |FREEF4LL|"
+  },
+  {
+    "name": "FREEF4LL Present Easy Clear",
+    "region": "ExtraII",
+    "requires": "|omatsuri_conflict| and (|FREEF4LL|) and (|FREEF4LL Present| and |Diode Present|)"
+  },
+  {
+    "name": "FREEF4LL Present Normal Clear",
+    "region": "ExtraII",
+    "requires": "|omatsuri_conflict| and (|FREEF4LL|) and (|FREEF4LL Present| and |Diode Present|)"
+  },
+  {
+    "name": "FREEF4LL Present Full Recall",
+    "region": "ExtraII",
+    "requires": "|omatsuri_conflict| and (|FREEF4LL|) and (|FREEF4LL Present| and |Diode Present|)"
+  },
+  {
+    "name": "FREEF4LL Future Easy Clear",
+    "region": "ExtraII",
+    "requires": "|omatsuri_conflict| and (|FREEF4LL|) and (|FREEF4LL Future| and |Diode Future|)"
+  },
+  {
+    "name": "FREEF4LL Future Normal Clear",
+    "region": "ExtraII",
+    "requires": "|omatsuri_conflict| and (|FREEF4LL|) and (|FREEF4LL Future| and |Diode Future|)"
+  },
+  {
+    "name": "FREEF4LL Future Full Recall",
+    "region": "ExtraII",
+    "requires": "|omatsuri_conflict| and (|FREEF4LL|) and (|FREEF4LL Future| and |Diode Future|)"
+  },
+  {
+    "name": "FREEF4LL Beyond Easy Clear",
+    "region": "Beyond",
+    "requires": "(((|Outer Reaches|) and (|Dormant Echoes| and |Progressive Extra:1|)) and ((|Syro| and |Diode|) and (|shiawase| and |mirai_light|))) and (|omatsuri_conflict| and (|FREEF4LL| and |FREEF4LL Beyond|))"
+  },
+  {
+    "name": "FREEF4LL Beyond Normal Clear",
+    "region": "Beyond",
+    "requires": "|Tairitsu| and (((|Outer Reaches|) and (|Dormant Echoes| and |Progressive Extra:1|)) and ((|Syro| and |Diode|) and ((|shiawase|) and (|mirai_light| and |base_light|)))) and (|omatsuri_conflict| and (|FREEF4LL| and |FREEF4LL Beyond|))"
+  },
+  {
+    "name": "GOODTEK Past Easy Clear",
+    "region": "LightII",
+    "requires": "|GOODTEK|"
+  },
+  {
+    "name": "GOODTEK Past Normal Clear",
+    "region": "LightII",
+    "requires": "|GOODTEK|"
+  },
+  {
+    "name": "GOODTEK Past Full Recall",
+    "region": "LightII",
+    "requires": "|GOODTEK|"
+  },
+  {
+    "name": "GOODTEK Past Pure Memory",
+    "region": "LightII",
+    "requires": "|GOODTEK|"
+  },
+  {
+    "name": "GOODTEK Present Easy Clear",
+    "region": "LightII",
+    "requires": "|GOODTEK| and (|GOODTEK Present| and |Harutopia Present|)"
+  },
+  {
+    "name": "GOODTEK Present Normal Clear",
+    "region": "LightII",
+    "requires": "|GOODTEK| and (|GOODTEK Present| and |Harutopia Present|)"
+  },
+  {
+    "name": "GOODTEK Present Full Recall",
+    "region": "LightII",
+    "requires": "|GOODTEK| and (|GOODTEK Present| and |Harutopia Present|)"
+  },
+  {
+    "name": "GOODTEK Future Easy Clear",
+    "region": "LightII",
+    "requires": "|GOODTEK| and (|GOODTEK Future| and |Harutopia Future|)"
+  },
+  {
+    "name": "GOODTEK Future Normal Clear",
+    "region": "LightII",
+    "requires": "(|Tairitsu| and |GOODTEK|) and (|GOODTEK Future| and |Harutopia Future|)"
+  },
+  {
+    "name": "GOODTEK Beyond Easy Clear",
+    "region": "Beyond",
+    "requires": "(((|Lost World|) and (|Progressive Light:2| and |Progressive Conflict:2|)) and (((|base_light| and |shiawase|) and (|Babaroque| and |Harutopia ~Utopia of Spring~|)) and ((|base_conflict|) and (|Lucifer| and |Rabbit In The Black Room|)))) and (|GOODTEK| and (|GOODTEK Beyond| and (|GOODTEK Future| and |Harutopia Future|)))"
+  },
+  {
+    "name": "GOODTEK Beyond Normal Clear",
+    "region": "Beyond",
+    "requires": "|Tairitsu| and (((|Lost World|) and (|Progressive Light:2| and |Progressive Conflict:2|)) and (((|base_light| and |shiawase|) and (|Babaroque| and |Harutopia ~Utopia of Spring~|)) and ((|base_conflict|) and (|Lucifer| and |Rabbit In The Black Room|)))) and (|GOODTEK| and (|GOODTEK Beyond| and (|GOODTEK Future| and |Harutopia Future|)))"
+  },
+  {
+    "name": "Lost Civilization Past Easy Clear",
+    "region": "MusicPlay",
+    "requires": "|base_conflict|"
+  },
+  {
+    "name": "Lost Civilization Past Normal Clear",
+    "region": "MusicPlay",
+    "requires": "|base_conflict|"
+  },
+  {
+    "name": "Lost Civilization Past Full Recall",
+    "region": "MusicPlay",
+    "requires": "|base_conflict|"
+  },
+  {
+    "name": "Lost Civilization Past Pure Memory",
+    "region": "MusicPlay",
+    "requires": "|base_conflict|"
+  },
+  {
+    "name": "Lost Civilization Present Easy Clear",
+    "region": "MusicPlay",
+    "requires": "(|base_conflict| and |base_light|) and ((|Lost Civilization Present| and |Rise Present|) and ((|Snow White Present| and |inkar-usi Present|) and ((|Story Mode|) and (|Course Mode| and |First Step in a New World|))))"
+  },
+  {
+    "name": "Lost Civilization Present Normal Clear",
+    "region": "MusicPlay",
+    "requires": "(|base_conflict| and |base_light|) and ((|Lost Civilization Present| and |Rise Present|) and ((|Snow White Present| and |inkar-usi Present|) and ((|Story Mode|) and (|Course Mode| and |First Step in a New World|))))"
+  },
+  {
+    "name": "Lost Civilization Present Full Recall",
+    "region": "MusicPlay",
+    "requires": "(|base_conflict| and |base_light|) and ((|Lost Civilization Present| and |Rise Present|) and ((|Snow White Present| and |inkar-usi Present|) and ((|Story Mode|) and (|Course Mode| and |First Step in a New World|))))"
+  },
+  {
+    "name": "Lost Civilization Future Easy Clear",
+    "region": "MusicPlay",
+    "requires": "(|base_conflict| and |base_light|) and ((|Lost Civilization Future| and |Rise Future|) and (|Snow White Future|))"
+  },
+  {
+    "name": "Lost Civilization Future Normal Clear",
+    "region": "MusicPlay",
+    "requires": "|Tairitsu| and (|base_conflict| and |base_light|) and ((|Lost Civilization Future| and |Rise Future|) and (|Snow White Future|))"
+  },
+  {
+    "name": "Lost Civilization Beyond Easy Clear",
+    "region": "Beyond",
+    "requires": "(|base_conflict| and |base_light|) and ((|Lost Civilization Future| and |Lost Civilization Beyond|) and (|Snow White Future| and |Rise Future|))"
+  },
+  {
+    "name": "Lost Civilization Beyond Normal Clear",
+    "region": "Beyond",
+    "requires": "|Tairitsu| and (|base_conflict| and |base_light|) and ((|Lost Civilization Future| and |Lost Civilization Beyond|) and (|Snow White Future| and |Rise Future|))"
+  },
+  {
+    "name": "Monochrome Princess Past Easy Clear",
+    "region": "ExtraII",
+    "requires": "|omatsuri_conflict| and (|Monochrome Princess| and |FREEF4LL|)"
+  },
+  {
+    "name": "Monochrome Princess Past Normal Clear",
+    "region": "ExtraII",
+    "requires": "|omatsuri_conflict| and (|Monochrome Princess| and |FREEF4LL|)"
+  },
+  {
+    "name": "Monochrome Princess Past Full Recall",
+    "region": "ExtraII",
+    "requires": "|omatsuri_conflict| and (|Monochrome Princess| and |FREEF4LL|)"
+  },
+  {
+    "name": "Monochrome Princess Past Pure Memory",
+    "region": "ExtraII",
+    "requires": "|omatsuri_conflict| and (|Monochrome Princess| and |FREEF4LL|)"
+  },
+  {
+    "name": "Monochrome Princess Present Easy Clear",
+    "region": "ExtraII",
+    "requires": "|omatsuri_conflict| and (|Monochrome Princess| and |FREEF4LL|) and ((|Monochrome Princess Present|) and (|FREEF4LL Present| and |Diode Present|))"
+  },
+  {
+    "name": "Monochrome Princess Present Normal Clear",
+    "region": "ExtraII",
+    "requires": "|omatsuri_conflict| and (|Monochrome Princess| and |FREEF4LL|) and ((|Monochrome Princess Present|) and (|FREEF4LL Present| and |Diode Present|))"
+  },
+  {
+    "name": "Monochrome Princess Present Full Recall",
+    "region": "ExtraII",
+    "requires": "|omatsuri_conflict| and (|Monochrome Princess| and |FREEF4LL|) and ((|Monochrome Princess Present|) and (|FREEF4LL Present| and |Diode Present|))"
+  },
+  {
+    "name": "Monochrome Princess Future Easy Clear",
+    "region": "ExtraII",
+    "requires": "|omatsuri_conflict| and (|Monochrome Princess| and |FREEF4LL|) and ((|Monochrome Princess Future|) and (|FREEF4LL Future| and |Diode Future|))"
+  },
+  {
+    "name": "Monochrome Princess Future Normal Clear",
+    "region": "ExtraII",
+    "requires": "|omatsuri_conflict| and ((|Monochrome Princess| and |FREEF4LL|) and ((|Monochrome Princess Future|) and (|FREEF4LL Future| and |Diode Future|))) and (|Tairitsu|)"
+  },
+  {
+    "name": "qualia Past Easy Clear",
+    "region": "ConflictII",
+    "requires": "|qualia -ideaesthesia-|"
+  },
+  {
+    "name": "qualia Past Normal Clear",
+    "region": "ConflictII",
+    "requires": "|qualia -ideaesthesia-|"
+  },
+  {
+    "name": "qualia Past Full Recall",
+    "region": "ConflictII",
+    "requires": "|qualia -ideaesthesia-|"
+  },
+  {
+    "name": "qualia Past Pure Memory",
+    "region": "ConflictII",
+    "requires": "|qualia -ideaesthesia-|"
+  },
+  {
+    "name": "qualia Present Easy Clear",
+    "region": "ConflictII",
+    "requires": "|qualia -ideaesthesia-| and (|qualia Present| and |Rabbit In The Black Room Present|)"
+  },
+  {
+    "name": "qualia Present Normal Clear",
+    "region": "ConflictII",
+    "requires": "|qualia -ideaesthesia-| and (|qualia Present| and |Rabbit In The Black Room Present|)"
+  },
+  {
+    "name": "qualia Present Full Recall",
+    "region": "ConflictII",
+    "requires": "|qualia -ideaesthesia-| and (|qualia Present| and |Rabbit In The Black Room Present|)"
+  },
+  {
+    "name": "qualia Future Easy Clear",
+    "region": "ConflictII",
+    "requires": "|qualia -ideaesthesia-| and (|qualia Future| and |Rabbit In The Black Room Future|)"
+  },
+  {
+    "name": "qualia Future Normal Clear",
+    "region": "ConflictII",
+    "requires": "|Tairitsu| and (|qualia -ideaesthesia-|) and (|qualia Future| and |Rabbit In The Black Room Future|)"
+  },
+  {
+    "name": "qualia Beyond Easy Clear",
+    "region": "Beyond",
+    "requires": "(((|base_light|) and ((|Kanagawa Cyber Culvert|) and (|Kanagawa Cyber Culvert Future| and |Kanagawa Cyber Culvert Beyond|))) and (|Progressive Light:1| and |Babaroque|)) and ((|Lost World| and |Progressive Conflict:2|) and (((|Lucifer| and |Rabbit In The Black Room|) and (|qualia -ideaesthesia-| and |base_conflict|)) and ((|qualia Future| and |qualia Beyond|) and (|Rabbit In The Black Room Future|))))"
+  },
+  {
+    "name": "qualia Beyond Normal Clear",
+    "region": "Beyond",
+    "requires": "|Tairitsu| and (((|base_light|) and ((|Kanagawa Cyber Culvert|) and (|Kanagawa Cyber Culvert Future| and |Kanagawa Cyber Culvert Beyond|))) and (|Progressive Light:1| and |Babaroque|)) and ((|Lost World| and |Progressive Conflict:2|) and (((|Lucifer| and |Rabbit In The Black Room|) and (|qualia -ideaesthesia-| and |base_conflict|)) and ((|qualia Future| and |qualia Beyond|) and (|Rabbit In The Black Room Future|))))"
+  },
+  {
+    "name": "Red and Blue Past Easy Clear",
+    "region": "ConflictII",
+    "requires": "|Red and Blue| and |qualia -ideaesthesia-|"
+  },
+  {
+    "name": "Red and Blue Past Normal Clear",
+    "region": "ConflictII",
+    "requires": "|Red and Blue| and |qualia -ideaesthesia-|"
+  },
+  {
+    "name": "Red and Blue Past Full Recall",
+    "region": "ConflictII",
+    "requires": "|Red and Blue| and |qualia -ideaesthesia-|"
+  },
+  {
+    "name": "Red and Blue Past Pure Memory",
+    "region": "ConflictII",
+    "requires": "|Red and Blue| and |qualia -ideaesthesia-|"
+  },
+  {
+    "name": "Red and Blue Present Easy Clear",
+    "region": "ConflictII",
+    "requires": "(|Red and Blue| and |qualia -ideaesthesia-|) and ((|Red and Blue Present|) and (|qualia Present| and |Rabbit In The Black Room Present|))"
+  },
+  {
+    "name": "Red and Blue Present Normal Clear",
+    "region": "ConflictII",
+    "requires": "(|Red and Blue| and |qualia -ideaesthesia-|) and ((|Red and Blue Present|) and (|qualia Present| and |Rabbit In The Black Room Present|))"
+  },
+  {
+    "name": "Red and Blue Present Full Recall",
+    "region": "ConflictII",
+    "requires": "(|Red and Blue| and |qualia -ideaesthesia-|) and ((|Red and Blue Present|) and (|qualia Present| and |Rabbit In The Black Room Present|))"
+  },
+  {
+    "name": "Red and Blue Future Easy Clear",
+    "region": "ConflictII",
+    "requires": "(|Red and Blue| and |qualia -ideaesthesia-|) and ((|Red and Blue Future|) and (|qualia Future| and |Rabbit In The Black Room Future|))"
+  },
+  {
+    "name": "Red and Blue Future Normal Clear",
+    "region": "ConflictII",
+    "requires": "|Tairitsu| and (|Red and Blue| and |qualia -ideaesthesia-|) and ((|Red and Blue Future|) and (|qualia Future| and |Rabbit In The Black Room Future|))"
+  },
+  {
+    "name": "Red and Blue and Green Easy Clear",
+    "region": "Beyond",
+    "requires": "((|Lost World| and |Progressive Conflict:2|) and ((|base_conflict| and |byd_conflict|) and (|Lucifer| and |Rabbit In The Black Room|))) and ((|Red and Blue| and |qualia -ideaesthesia-|) and ((|Red and Blue and Green| and |Red and Blue Future|) and (|qualia Future| and |Rabbit In The Black Room Future|)))"
+  },
+  {
+    "name": "Red and Blue and Green Normal Clear",
+    "region": "Beyond",
+    "requires": "|Tairitsu| and ((|Lost World| and |Progressive Conflict:2|) and ((|base_conflict| and |byd_conflict|) and (|Lucifer| and |Rabbit In The Black Room|))) and ((|Red and Blue| and |qualia -ideaesthesia-|) and ((|Red and Blue and Green| and |Red and Blue Future|) and (|qualia Future| and |Rabbit In The Black Room Future|)))",
+    "place_item": [
+      "Goal"
+    ]
+  },
+  {
+    "name": "Redraw the Colorless World Past Easy Clear",
+    "region": "HorizonOfAnamnesis",
+    "requires": "|prelude_light| and |Redraw the Colorless World|"
+  },
+  {
+    "name": "Redraw the Colorless World Past Normal Clear",
+    "region": "HorizonOfAnamnesis",
+    "requires": "|prelude_light| and |Redraw the Colorless World|"
+  },
+  {
+    "name": "Redraw the Colorless World Past Full Recall",
+    "region": "HorizonOfAnamnesis",
+    "requires": "|prelude_light| and |Redraw the Colorless World|"
+  },
+  {
+    "name": "Redraw the Colorless World Past Pure Memory",
+    "region": "HorizonOfAnamnesis",
+    "requires": "|prelude_light| and |Redraw the Colorless World|"
+  },
+  {
+    "name": "Redraw the Colorless World Present Easy Clear",
+    "region": "HorizonOfAnamnesis",
+    "requires": "(|prelude_light| and |Redraw the Colorless World|) and (|Redraw the Colorless World Present| and |Altair Present|)"
+  },
+  {
+    "name": "Redraw the Colorless World Present Normal Clear",
+    "region": "HorizonOfAnamnesis",
+    "requires": "(|prelude_light| and |Redraw the Colorless World|) and (|Redraw the Colorless World Present| and |Altair Present|)"
+  },
+  {
+    "name": "Redraw the Colorless World Present Full Recall",
+    "region": "HorizonOfAnamnesis",
+    "requires": "(|prelude_light| and |Redraw the Colorless World|) and (|Redraw the Colorless World Present| and |Altair Present|)"
+  },
+  {
+    "name": "Redraw the Colorless World Future Easy Clear",
+    "region": "HorizonOfAnamnesis",
+    "requires": "(|prelude_light| and |Redraw the Colorless World|) and (|Redraw the Colorless World Future| and |Altair Future|)"
+  },
+  {
+    "name": "Redraw the Colorless World Future Normal Clear",
+    "region": "HorizonOfAnamnesis",
+    "requires": "|Tairitsu| and (|prelude_light| and |Redraw the Colorless World|) and (|Redraw the Colorless World Future| and |Altair Future|)"
+  },
+  {
+    "name": "Trap Crow Past Easy Clear",
+    "region": "HorizonOfAnamnesis",
+    "requires": "(|prelude_light| and |prelude_conflict|) and (|Trap Crow| and |Redraw the Colorless World|)"
+  },
+  {
+    "name": "Trap Crow Past Normal Clear",
+    "region": "HorizonOfAnamnesis",
+    "requires": "(|prelude_light| and |prelude_conflict|) and (|Trap Crow| and |Redraw the Colorless World|)"
+  },
+  {
+    "name": "Trap Crow Past Full Recall",
+    "region": "HorizonOfAnamnesis",
+    "requires": "(|prelude_light| and |prelude_conflict|) and (|Trap Crow| and |Redraw the Colorless World|)"
+  },
+  {
+    "name": "Trap Crow Past Pure Memory",
+    "region": "HorizonOfAnamnesis",
+    "requires": "(|prelude_light| and |prelude_conflict|) and (|Trap Crow| and |Redraw the Colorless World|)"
+  },
+  {
+    "name": "Trap Crow Present Easy Clear",
+    "region": "HorizonOfAnamnesis",
+    "requires": "((|prelude_light| and |prelude_conflict|) and (|Trap Crow| and |Redraw the Colorless World|)) and ((|Trap Crow Present|) and (|Redraw the Colorless World Present| and |Altair Present|))"
+  },
+  {
+    "name": "Trap Crow Present Normal Clear",
+    "region": "HorizonOfAnamnesis",
+    "requires": "((|prelude_light| and |prelude_conflict|) and (|Trap Crow| and |Redraw the Colorless World|)) and ((|Trap Crow Present|) and (|Redraw the Colorless World Present| and |Altair Present|))"
+  },
+  {
+    "name": "Trap Crow Present Full Recall",
+    "region": "HorizonOfAnamnesis",
+    "requires": "((|prelude_light| and |prelude_conflict|) and (|Trap Crow| and |Redraw the Colorless World|)) and ((|Trap Crow Present|) and (|Redraw the Colorless World Present| and |Altair Present|))"
+  },
+  {
+    "name": "Trap Crow Future Easy Clear",
+    "region": "HorizonOfAnamnesis",
+    "requires": "((|prelude_light| and |prelude_conflict|) and (|Trap Crow| and |Redraw the Colorless World|)) and ((|Trap Crow Future|) and (|Redraw the Colorless World Future| and |Altair Future|))"
+  },
+  {
+    "name": "Trap Crow Future Normal Clear",
+    "region": "HorizonOfAnamnesis",
+    "requires": "|Tairitsu| and ((|prelude_light| and |prelude_conflict|) and (|Trap Crow| and |Redraw the Colorless World|)) and ((|Trap Crow Future|) and (|Redraw the Colorless World Future| and |Altair Future|))"
+  },
+  {
+    "name": "Victory",
+    "requires": "|Goal:1|",
+    "victory": true
+  }
+]
